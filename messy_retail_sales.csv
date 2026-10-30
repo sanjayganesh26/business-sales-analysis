@@ -1,0 +1,1259 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Discount,Customer_ID,Region
+ORD00001,2025-02-02,Ceramic Mug,Home & Kitchen,3.0,256.86,0.0,C1194,West
+ORD00002,2025-09-26,Bluetooth Speaker,Electronics,1.0,1784.72,0.0,C1191,West
+ORD00003,2025-10-13,Notebook Set,Stationery,3.0,200.74,0.0,C1215,East
+ORD00004,2025-10-30, Bluetooth Speaker ,Electronics,1.0,1912.16,0.1,C1190,South
+ORD00005,2025-03-13,Classic T-Shirt,Apparel,1.0,513.61,0.05,C1092,South
+ORD00006,2025-12-20,Steel Water Bottle,Home & Kitchen,2.0,347.64,0.0,C1033,East
+ORD00007,2025-12-10,Notebook Set,Stationery,3.0,209.58,0.1,C1211,South
+ORD00008,2025-05-22,USB-C Cable,Electronics,1.0,284.64,0.0,C1200,East
+ORD00009,2025-10-15,USB-C Cable,Electronics,3.0,302.29,0.0,C1062,East
+ORD00010,2025-02-11,Ceramic Mug,Home & Kitchen,2.0,259.56,0.05,C1142,East
+ORD00011,2025-07-22,Steel Water Bottle,Home & Kitchen,1.0,345.47,0.0,C1070,West
+ORD00012,2025-05-30,Cotton Kurta,Apparel,1.0,867.55,0.0,C1109,East
+ORD00013,2025-08-30,Bluetooth Speaker,Electronics,2.0,1772.05,0.1,C1081,North
+ORD00014,2025-03-02,Classic T-Shirt,Apparel,2.0,495.96,0.0,C1226,North
+ORD00015,2025-07-02,USB-C Cable,Electronics,1.0,293.31,0.0,C1171,South
+ORD00016,2025-08-19,Classic T-Shirt,Apparel,1.0,535.88,0.1,C1124,South
+ORD00017,2025-09-13,Sketchbook,Stationery,3.0,288.68,0.0,C1185,North
+ORD00018,2025-04-10,Desk Organizer,Stationery,1.0,427.62,0.0,C1203,North
+ORD00019,2025-07-31,Notebook Set,Stationery,2.0,205.99,0.0,C1078,East
+ORD00020,2025-08-17,USB-C Cable,Electronics,1.0,294.97,0.0,C1045,South
+ORD00021,2025-06-30,Denim Jeans,Apparel,1.0,1317.22,0.0,C1075,East
+ORD00022,2025-12-04,Steel Water Bottle,Home & Kitchen,3.0,348.01,0.1,C1240,North
+ORD00023,2025-04-11,Storage Basket,Home & Kitchen,4.0,605.87,0.0,C1122,South
+ORD00024,2025-12-15,Storage Basket,Home & Kitchen,2.0,630.27,0.1,C1136,East
+ORD00025,2025-02-21,Classic T-Shirt,Apparel,2.0,481.53,0.05,C1183,West
+ORD00026,2025-09-23,Classic T-Shirt,Apparel,4.0,477.46,0.0,C1036,South
+ORD00027,2025-07-22,Notebook Set,Stationery,3.0,193.18,0.15,C1159,South
+ORD00028,2025-04-17,Cotton Kurta,Apparel,4.0,850.76,0.0,C1075,West
+ORD00029,2025-06-08,Desk Organizer,Stationery,2.0,477.07,0.1,C1029,South
+ORD00030,2025-07-09,Bluetooth Speaker,Electronics,2.0,1762.63,0.0,C1185,South
+ORD00031,2025-09-30,Desk Organizer,Stationery,1.0,421.9,0.1,C1223,North
+ORD00032,2025-02-25,Wireless Mouse,Electronics,3.0,760.19,0.0,C1250,West
+ORD00033,2025-10-11,Storage Basket,Home & Kitchen,2.0,563.71,0.05,C1058,North
+ORD00034,2025-04-19,USB-C Cable,Electronics,2.0,284.64,0.1,C1127,East
+ORD00035,2025-01-31,Denim Jeans,Apparel,1.0,1387.86,0.0,C1185,South
+ORD00036,2025-02-18,USB-C Cable,Electronics,4.0,288.78,0.1,C1123,North
+ORD00037,2025-08-06,Wireless Mouse,Electronics,1.0,753.02,0.0,C1139,West
+ORD00038,2025-03-02,Desk Organizer,Stationery,3.0,446.66,0.1,C1150,North
+ORD00039,2025-08-31,Notebook Set,Stationery,3.0,190.49,0.0,C1028,East
+ORD00040,2025-12-07,Wireless Mouse,Electronics,1.0,789.52,0.05,C1217,West
+ORD00041,2025-04-11,Cotton Kurta,Apparel,1.0,934.39,0.1,C1114,North
+ORD00042,2025-11-18,Wireless Mouse,Electronics,1.0,774.75,0.0,C1017,
+ORD00043,2025-08-07,Cotton Kurta,Apparel,1.0,843.69,0.0,C1042,North
+ORD00044,2025-03-13,Classic T-Shirt,Apparel,2.0,513.43,0.0,C1044,South
+ORD00045,2025-12-26,Notebook Set,Stationery,5.0,188.86,0.0,C1058,East
+ORD00046,2025-04-02,Ceramic Mug,Home & Kitchen,1.0,243.96,0.0,C1224,
+ORD00047,2025-02-07,Classic T-Shirt,Apparel,4.0,466.99,0.1,C1201,West
+ORD00048,2025-11-26,Notebook Set,Stationery,3.0,207.88,0.0,C1207,South
+ORD00049,2025-07-15,Notebook Set,Stationery,1.0,195.34,0.05,C1063,North
+ORD00050,2025-04-08,Ceramic Mug,Home & Kitchen,1.0,238.35,0.0,C1127,South
+ORD00051,2025-05-14,Steel Water Bottle,Home & Kitchen,2.0,337.66,0.1,C1168,South
+ORD00052,2025-12-01,Steel Water Bottle,Home & Kitchen,2.0,357.52,0.1,C1139,East
+ORD00053,2025-07-14,Cotton Kurta,Apparel,2.0,856.19,0.05,C1126,North
+ORD00054,2025-11-11,Wireless Mouse,Electronics,1.0,745.88,0.1,C1181,
+ORD00055,2025-02-20, Notebook Set ,Stationery,2.0,208.0,0.1,C1233,South
+ORD00056,2025-12-12,Wireless Mouse,Electronics,1.0,756.98,0.05,C1002,South
+ORD00057,2025-07-28,Storage Basket,Home & Kitchen,3.0,627.68,0.0,C1059,West
+ORD00058,2025-08-07,Classic T-Shirt,Apparel,1.0,466.08,0.05,C1183,West
+ORD00059,2025-06-02,USB-C Cable,Electronics,1.0,318.06,0.1,C1159,South
+ORD00060,2025-04-09,Steel Water Bottle,Home & Kitchen,1.0,329.33,0.1,C1139,South
+ORD00061,2025-06-09,USB-C Cable,Electronics,2.0,319.86,0.1,C1154,South
+ORD00062,2025-06-24,Sketchbook,Stationery,2.0,299.14,0.0,C1068,East
+ORD00063,2025-11-07,Denim Jeans,Apparel,2.0,1197.64,0.0,C1181,South
+ORD00064,2025-10-29,Ceramic Mug,Home & Kitchen,3.0,260.21,0.0,C1230,West
+ORD00065,2025-01-17,Cotton Kurta,Apparel,3.0,842.39,0.15,C1220,East
+ORD00066,2025-02-19,Classic T-Shirt,Apparel,3.0,461.4,0.0,C1163,North
+ORD00067,2025-11-08,Denim Jeans,Apparel,4.0,1202.6,0.0,C1195,North
+ORD00068,2025-10-27,Notebook Set,Stationery,1.0,184.9,0.1,C1152,West
+ORD00069,2025-02-13,USB-C Cable,Electronics,3.0,277.0,0.0,C1194,North
+ORD00070,2025-09-12,Bluetooth Speaker,Electronics,2.0,1900.07,0.0,C1127,West
+ORD00071,2025-01-20,Cotton Kurta,Apparel,2.0,968.07,0.05,C1049,North
+ORD00072,2025-01-26,Classic T-Shirt,Apparel,3.0,515.73,0.0,C1155,North
+ORD00073,2025-10-09,Sketchbook,Stationery,1.0,285.09,0.05,C1046,North
+ORD00074,2025-04-01,Steel Water Bottle,Home & Kitchen,2.0,360.16,0.05,C1237,West
+ORD00075,2025-02-27,Storage Basket,Home & Kitchen,,596.52,0.0,C1038,North
+ORD00076,2025-12-12,Steel Water Bottle,Home & Kitchen,1.0,356.52,0.0,C1070,South
+ORD00077,2025-11-03,Wireless Mouse,Electronics,2.0,788.57,0.0,C1037,East
+ORD00078,2025-03-24,Wireless Mouse,Electronics,2.0,817.91,0.05,C1155,West
+ORD00079,2025-04-26,Storage Basket,Home & Kitchen,1.0,611.08,0.0,C1241,West
+ORD00080,2025-07-07,Desk Organizer,Stationery,4.0,449.26,0.0,C1068,South
+ORD00081,2025-10-19,Notebook Set,Stationery,3.0,209.89,0.0,C1019,South
+ORD00082,2025-07-26,Denim Jeans,Apparel,1.0,1349.44,0.0,C1084,West
+ORD00083,2025-09-15,Steel Water Bottle,Home & Kitchen,1.0,354.63,0.0,C1215,South
+ORD00084,2025-07-03,Sketchbook,Stationery,3.0,270.56,0.05,C1240,East
+ORD00085,2025-10-02,USB-C Cable,Electronics,2.0,300.2,0.0,C1178,West
+ORD00086,2025-03-02, Sketchbook ,Stationery,2.0,294.14,0.15,C1163,South
+ORD00087,2025-02-21,Steel Water Bottle,Home & Kitchen,1.0,363.26,0.0,C1120,North
+ORD00088,2025-06-21,Denim Jeans,Apparel,4.0,1204.36,0.0,C1049,South
+ORD00089,2025-04-17,Wireless Mouse,Electronics,2.0,745.83,0.0,C1211,East
+ORD00090,2025-11-04,USB-C Cable,Electronics,2.0,277.86,0.0,C1186,South
+ORD00091,2025-07-16,Notebook Set,Stationery,2.0,207.55,0.1,C1093,West
+ORD00092,2025-07-04,Wireless Mouse,Electronics,3.0,778.62,0.0,C1212,North
+ORD00093,not-a-date,Steel Water Bottle,Home & Kitchen,4.0,356.31,0.0,C1003,North
+ORD00094,2025-05-04,Classic T-Shirt,Apparel,4.0,494.86,0.0,C1036,North
+ORD00095,2025-08-07,Cotton Kurta,Apparel,2.0,918.24,0.15,C1201,South
+ORD00096,2025-08-15,Bluetooth Speaker,Electronics,4.0,1862.53,0.15,C1156,West
+ORD00097,2025-10-13,Classic T-Shirt,Apparel,2.0,503.24,0.05,C1105,West
+ORD00098,2025-12-20,Cotton Kurta,Apparel,2.0,,0.0,C1075,West
+ORD00099,2025-01-15,Ceramic Mug,Home & Kitchen,5.0,247.6,0.15,C1061,West
+ORD00100,2025-05-31,Classic T-Shirt,Apparel,2.0,523.12,0.1,C1112,North
+ORD00101,2025-10-28,Steel Water Bottle,Home & Kitchen,3.0,360.91,0.1,C1169,West
+ORD00102,2025-09-28,Notebook Set,Stationery,1.0,190.55,0.05,C1185,West
+ORD00103,2025-06-11,Storage Basket,Home & Kitchen,2.0,553.92,0.0,C1002,West
+ORD00104,2025-08-11,Cotton Kurta,Apparel,3.0,877.14,0.1,C1168,
+ORD00105,2025-09-17,Steel Water Bottle,Home & Kitchen,1.0,370.59,0.0,C1148,North
+ORD00106,2025-09-04,USB-C Cable,Electronics,3.0,322.86,0.0,C1086,South
+ORD00107,2025-07-14,Wireless Mouse,Electronics,5.0,824.68,0.05,C1035,South
+ORD00108,2025-06-30,Storage Basket,Home & Kitchen,1.0,586.1,0.0,C1229,North
+ORD00109,2025-07-22,Ceramic Mug,Home & Kitchen,,242.76,0.0,C1005,West
+ORD00110,2025-12-18,Storage Basket,Home & Kitchen,1.0,573.61,0.0,C1188,West
+ORD00111,2025-04-22,Bluetooth Speaker,Electronics,2.0,1843.17,0.0,C1133,South
+ORD00112,2025-04-20,Denim Jeans,Apparel,3.0,1253.95,0.05,C1081,West
+ORD00113,2025-08-02,Ceramic Mug,Home & Kitchen,1.0,268.71,0.05,C1196,West
+ORD00114,2025-09-03,Bluetooth Speaker,Electronics,1.0,1816.9,0.0,C1226,East
+ORD00115,2025-04-27,Storage Basket,Home & Kitchen,1.0,554.52,0.15,C1239,North
+ORD00116,2025-04-18,Cotton Kurta,Apparel,1.0,892.54,0.0,C1011,South
+ORD00117,2025-01-18,Classic T-Shirt,Apparel,1.0,463.91,0.05,C1013,North
+ORD00118,2025-12-23,Steel Water Bottle,Home & Kitchen,2.0,327.34,0.1,C1041,South
+ORD00119,2025-01-01,Ceramic Mug,Home & Kitchen,1.0,246.26,0.1,C1117,South
+ORD00120,2025-11-04,Steel Water Bottle,Home & Kitchen,1.0,359.23,0.0,C1186,West
+ORD00121,2025-05-01,Classic T-Shirt,Apparel,1.0,515.89,0.0,C1151,North
+ORD00122,2025-01-18,Desk Organizer,Stationery,1.0,426.61,0.0,C1039,East
+ORD00123,2025-02-10,Cotton Kurta,Apparel,2.0,911.97,0.1,C1124,West
+ORD00124,2025-01-02,Wireless Mouse,Electronics,1.0,833.89,0.1,C1073,West
+ORD00125,2025-04-03,Ceramic Mug,Home & Kitchen,2.0,268.31,0.0,C1184,South
+ORD00126,2025-10-24,Bluetooth Speaker,Electronics,4.0,1746.51,0.0,C1104,North
+ORD00127,2025-09-26,Classic T-Shirt,Apparel,1.0,516.98,0.05,C1087,West
+ORD00128,2025-10-29,Desk Organizer,Stationery,,423.4,0.05,C1016,South
+ORD00129,2025-03-05,Sketchbook,Stationery,1.0,,0.15,C1145,North
+ORD00130,2025-08-02,Desk Organizer,Stationery,3.0,451.6,0.05,C1046,North
+ORD00131,2025-04-10,Wireless Mouse,Electronics,1.0,819.92,0.1,C1048,East
+ORD00132,2025-01-07,Cotton Kurta,Apparel,3.0,863.57,0.05,C1047,South
+ORD00133,2025-07-22, USB-C Cable ,Electronics,2.0,302.2,0.1,C1180,South
+ORD00134,2025-12-25,Storage Basket,Home & Kitchen,1.0,600.94,0.0,C1235,West
+ORD00135,2025-02-04,Steel Water Bottle,Home & Kitchen,2.0,329.42,0.15,C1067,North
+ORD00136,2025-03-07,Notebook Set,Stationery,4.0,189.83,0.0,C1220,West
+ORD00137,2025-09-25,Steel Water Bottle,Home & Kitchen,2.0,362.5,0.05,C1134,East
+ORD00138,2025-10-13,Classic T-Shirt,Apparel,4.0,522.8,0.0,C1001,West
+ORD00139,2025-03-16,Classic T-Shirt,Apparel,5.0,489.19,0.05,C1233,South
+ORD00140,2025-11-20,Steel Water Bottle,Home & Kitchen,2.0,343.93,0.05,C1144,South
+ORD00141,2025-12-08,Denim Jeans,Apparel,1.0,1222.33,0.0,C1077,South
+ORD00142,2025-09-07,Sketchbook,Stationery,1.0,261.1,0.1,C1147,South
+ORD00143,2025-11-18,Cotton Kurta,Apparel,1.0,894.46,0.0,C1032,South
+ORD00144,2025-01-17,Sketchbook,Stationery,2.0,278.8,0.0,C1059,South
+ORD00145,2025-04-03,Bluetooth Speaker,Electronics,3.0,1914.61,0.15,C1154,West
+ORD00146,2025-12-25,Classic T-Shirt,Apparel,2.0,466.82,0.1,C1139,East
+ORD00147,2025-05-27,Denim Jeans,Apparel,1.0,1228.4,0.1,C1136,East
+ORD00148,2025-07-11, Cotton Kurta ,Apparel,1.0,885.31,0.1,C1184,West
+ORD00149,2025-01-16,Sketchbook,Stationery,1.0,296.68,0.0,C1052,South
+ORD00150,2025-03-06,Denim Jeans,Apparel,1.0,1288.58,0.0,C1212,East
+ORD00151,2025-02-18,Notebook Set,Stationery,1.0,199.98,0.0,C1213,South
+ORD00152,2025-04-19,Sketchbook,Stationery,3.0,291.38,0.0,C1041,South
+ORD00153,2025-06-14,Storage Basket,Home & Kitchen,1.0,563.71,0.0,C1133,West
+ORD00154,2025-02-02,Sketchbook,Stationery,1.0,281.43,0.0,C1121,South
+ORD00155,2025-11-16,Classic T-Shirt,Apparel,5.0,507.63,0.0,C1243,
+ORD00156,2025-05-27,Denim Jeans,Apparel,5.0,1365.16,0.05,C1093,North
+ORD00157,2025-06-21,Desk Organizer,Stationery,1.0,416.68,0.0,C1015,East
+ORD00158,2025-10-17,Bluetooth Speaker,Electronics,4.0,1781.15,0.05,C1231,North
+ORD00159,2025-07-21,Cotton Kurta,Apparel,1.0,893.0,0.0,C1249,North
+ORD00160,2025-10-15,Steel Water Bottle,Home & Kitchen,6.0,361.63,0.0,C1076,East
+ORD00161,2025-08-29,Ceramic Mug,Home & Kitchen,4.0,242.73,0.0,C1023,West
+ORD00162,2025-09-05,Classic T-Shirt,Apparel,1.0,530.34,0.05,C1070,South
+ORD00163,2025-12-29,USB-C Cable,Electronics,1.0,292.61,0.05,C1099,East
+ORD00164,2025-05-28,USB-C Cable,Electronics,2.0,318.48,0.0,C1048,South
+ORD00165,2025-08-25,Ceramic Mug,Home & Kitchen,1.0,234.09,0.0,C1082,East
+ORD00166,2025-09-01,USB-C Cable,Electronics,1.0,290.7,0.0,C1041,West
+ORD00167,2025-10-12,Cotton Kurta,Apparel,4.0,847.02,0.0,C1069,East
+ORD00168,2025-11-30,Cotton Kurta,Apparel,2.0,964.15,0.05,C1228,South
+ORD00169,2025-04-23,Steel Water Bottle,Home & Kitchen,5.0,343.4,0.05,C1157,North
+ORD00170,2025-07-16,Notebook Set,Stationery,2.0,197.22,0.1,C1101,West
+ORD00171,2025-04-30,Storage Basket,Home & Kitchen,2.0,611.67,0.0,C1081,South
+ORD00172,2025-05-28,Desk Organizer,Stationery,3.0,483.35,0.05,C1229,West
+ORD00173,2025-03-27,Ceramic Mug,Home & Kitchen,1.0,238.65,0.05,C1191,South
+ORD00174,2025-04-22,Wireless Mouse,Electronics,1.0,763.06,0.1,C1065,West
+ORD00175,2025-07-28,Classic T-Shirt,Apparel,1.0,522.75,0.1,C1042,North
+ORD00176,2025-09-13,Classic T-Shirt,Apparel,1.0,538.81,0.0,C1194,North
+ORD00177,2025-01-10,Wireless Mouse,Electronics,4.0,860.47,0.0,C1106,North
+ORD00178,2025-08-03,Cotton Kurta,Apparel,3.0,922.51,0.0,C1198,West
+ORD00179,2025-07-30,Ceramic Mug,Home & Kitchen,2.0,249.03,0.05,C1045,East
+ORD00180,2025-01-01,Sketchbook,Stationery,2.0,260.93,0.05,C1249,West
+ORD00181,2025-04-27,Ceramic Mug,Home & Kitchen,1.0,231.13,0.05,C1080,South
+ORD00182,2025-04-29,Notebook Set,Stationery,3.0,196.35,0.0,C1197,West
+ORD00183,2025-09-18,Storage Basket,Home & Kitchen,3.0,564.87,0.1,C1201,North
+ORD00184,2025-04-29,Storage Basket,Home & Kitchen,1.0,556.14,0.0,C1039,South
+ORD00185,2025-11-07,Classic T-Shirt,Apparel,2.0,472.49,0.0,C1194,West
+ORD00186,2025-04-08,Storage Basket,Home & Kitchen,3.0,559.97,0.0,C1206,West
+ORD00187,2025-08-03,Bluetooth Speaker,Electronics,2.0,1871.04,0.0,C1065,South
+ORD00188,2025-05-31,Cotton Kurta,Apparel,2.0,844.18,0.0,C1055,North
+ORD00189,2025-03-01,Notebook Set,Stationery,1.0,214.61,0.0,C1044,East
+ORD00190,2025-03-07,Steel Water Bottle,Home & Kitchen,3.0,375.56,0.1,C1113,North
+ORD00191,2025-08-14,USB-C Cable,Electronics,1.0,310.23,0.05,C1056,East
+ORD00192,2025-05-21,USB-C Cable,Electronics,1.0,277.45,0.05,C1208,South
+ORD00193,2025-08-15,Ceramic Mug,Home & Kitchen,2.0,262.01,0.05,C1066,South
+ORD00194,2025-10-03,Storage Basket,Home & Kitchen,1.0,615.93,0.0,C1068,North
+ORD00195,2025-01-04,Desk Organizer,Stationery,2.0,425.43,0.1,C1054,South
+ORD00196,2025-10-30,Desk Organizer,Stationery,2.0,455.16,0.0,C1076,North
+ORD00197,2025-09-06,Classic T-Shirt,Apparel,1.0,492.83,0.0,C1020,West
+ORD00198,2025-02-19,Steel Water Bottle,Home & Kitchen,1.0,324.17,0.0,C1086,East
+ORD00199,2025-04-07,Cotton Kurta,Apparel,3.0,960.8,0.0,C1189,North
+ORD00200,2025-02-09,Wireless Mouse,Electronics,1.0,844.05,0.1,C1026,South
+ORD00201,2025-10-27,Sketchbook,Stationery,1.0,271.14,0.1,C1022,West
+ORD00202,2025-07-30,Denim Jeans,Apparel,5.0,1298.72,0.0,C1073,South
+ORD00203,2025-12-21,Steel Water Bottle,Home & Kitchen,4.0,331.87,0.0,C1081,West
+ORD00204,2025-01-12,Steel Water Bottle,Home & Kitchen,1.0,345.18,0.05,C1148,West
+ORD00205,2025-10-20,Steel Water Bottle,Home & Kitchen,1.0,352.79,0.0,C1234,East
+ORD00206,2025-05-08,Steel Water Bottle,Home & Kitchen,1.0,342.22,0.0,C1139,North
+ORD00207,2025-07-02,Steel Water Bottle,Home & Kitchen,1.0,352.5,0.1,C1181,South
+ORD00208,2025-07-12,Desk Organizer,Stationery,2.0,461.14,0.0,C1207,West
+ORD00209,2025-11-06,Desk Organizer,Stationery,3.0,415.85,0.05,C1229,North
+ORD00210,2025-07-25,Bluetooth Speaker,Electronics,3.0,1797.97,0.0,C1114,West
+ORD00211,2025-01-02,Steel Water Bottle,Home & Kitchen,3.0,341.91,0.05,C1015,North
+ORD00212,2025-04-09,Bluetooth Speaker,Electronics,2.0,1809.5,0.15,C1020,West
+ORD00213,2025-12-18,Denim Jeans,Apparel,2.0,1272.91,0.0,C1098,South
+ORD00214,2025-10-24,Wireless Mouse,Electronics,5.0,789.41,0.0,C1032,North
+ORD00215,2025-06-02,Bluetooth Speaker,Electronics,3.0,1736.94,0.0,C1183,North
+ORD00216,2025-11-16,Storage Basket,Home & Kitchen,1.0,566.74,0.05,C1029,East
+ORD00217,2025-05-18,Classic T-Shirt,Apparel,1.0,500.78,0.0,C1112,North
+ORD00218,2025-02-20,Steel Water Bottle,Home & Kitchen,1.0,373.98,0.0,C1057,West
+ORD00219,2025-10-23,Classic T-Shirt,Apparel,2.0,509.72,0.0,C1034,North
+ORD00220,2025-06-07,Storage Basket,Home & Kitchen,5.0,642.96,0.0,C1051,South
+ORD00221,2025-09-15,Desk Organizer,Stationery,1.0,480.31,0.1,C1228,North
+ORD00222,2025-02-12,Notebook Set,Stationery,1.0,200.11,0.1,C1218,South
+ORD00223,2025-07-27,Ceramic Mug,Home & Kitchen,1.0,267.68,0.0,C1198,South
+ORD00224,2025-03-11,Sketchbook,Stationery,1.0,295.4,0.05,C1136,West
+ORD00225,2025-10-30,Notebook Set,Stationery,6.0,200.45,0.0,C1199,West
+ORD00226,2025-03-20,USB-C Cable,Electronics,2.0,296.91,0.0,C1243,South
+ORD00227,2025-03-13,Classic T-Shirt,Apparel,1.0,521.34,0.0,C1098,West
+ORD00228,2025-11-01,Classic T-Shirt,Apparel,3.0,536.98,0.0,C1096,West
+ORD00229,not-a-date,Sketchbook,Stationery,1.0,258.87,0.0,C1234,North
+ORD00230,2025-01-24,Wireless Mouse,Electronics,4.0,803.76,0.05,C1200,West
+ORD00231,2025-03-15,Wireless Mouse,Electronics,3.0,856.38,0.0,C1029,North
+ORD00232,2025-02-03, Ceramic Mug ,Home & Kitchen,4.0,244.15,0.1,C1031,North
+ORD00233,2025-07-17,Steel Water Bottle,Home & Kitchen,2.0,358.65,0.0,C1202,West
+ORD00234,2025-03-25,Denim Jeans,Apparel,4.0,1234.13,0.0,C1148,South
+ORD00235,2025-07-01,Storage Basket,Home & Kitchen,1.0,-10.0,0.0,C1129,South
+ORD00236,2025-06-24,Classic T-Shirt,Apparel,2.0,477.28,0.05,C1153,West
+ORD00237,2025-01-19,Ceramic Mug,Home & Kitchen,3.0,248.03,0.0,C1201,East
+ORD00238,2025-10-28,Bluetooth Speaker,Electronics,1.0,1901.54,0.05,C1076,East
+ORD00239,2025-05-07,USB-C Cable,Electronics,4.0,292.82,0.0,C1158,South
+ORD00240,2025-10-24,USB-C Cable,Electronics,3.0,281.35,0.0,C1187,East
+ORD00241,2025-02-11,Desk Organizer,Stationery,1.0,421.03,0.15,C1187,North
+ORD00242,2025-04-14,Cotton Kurta,Apparel,2.0,954.07,0.1,C1050,East
+ORD00243,2025-11-02,Steel Water Bottle,Home & Kitchen,2.0,336.35,0.0,C1096,East
+ORD00244,2025-02-16,USB-C Cable,Electronics,1.0,298.1,0.1,C1146,West
+ORD00245,2025-10-01,Ceramic Mug,Home & Kitchen,4.0,236.11,0.0,C1091,South
+ORD00246,2025-09-20,Bluetooth Speaker,Electronics,1.0,1733.6,0.0,C1061,South
+ORD00247,2025-09-13,Steel Water Bottle,Home & Kitchen,1.0,363.69,0.1,C1076,South
+ORD00248,2025-08-18,Notebook Set,Stationery,5.0,202.61,0.1,C1161,West
+ORD00249,2025-07-04,Ceramic Mug,Home & Kitchen,1.0,229.71,0.0,C1198,South
+ORD00250,2025-06-29,Wireless Mouse,Electronics,2.0,842.03,0.0,C1102,North
+ORD00251,2025-03-13,Notebook Set,Stationery,5.0,210.87,0.1,C1199,South
+ORD00252,2025-02-16,Cotton Kurta,Apparel,2.0,962.12,0.0,C1101,East
+ORD00253,2025-08-13,Denim Jeans,Apparel,1.0,1207.12,0.1,C1075,South
+ORD00254,2025-01-22,USB-C Cable,Electronics,1.0,283.47,0.1,C1209,South
+ORD00255,2025-12-03,Denim Jeans,Apparel,2.0,1243.98,0.0,C1229,West
+ORD00256,2025-07-25,Ceramic Mug,Home & Kitchen,1.0,239.16,0.1,C1067,West
+ORD00257,2025-07-31,Notebook Set,Stationery,1.0,183.22,0.05,C1095,West
+ORD00258,2025-11-19,Cotton Kurta,Apparel,2.0,839.89,0.0,C1010,West
+ORD00259,2025-02-27,Denim Jeans,Apparel,1.0,1280.3,0.0,C1093,West
+ORD00260,2025-07-12,USB-C Cable,Electronics,5.0,294.78,0.0,C1161,West
+ORD00261,2025-01-27,USB-C Cable,Electronics,2.0,279.76,0.0,C1062,North
+ORD00262,2025-03-05,Ceramic Mug,Home & Kitchen,1.0,260.8,0.1,C1047,West
+ORD00263,2025-08-21,Cotton Kurta,Apparel,1.0,846.5,0.1,C1067,South
+ORD00264,2025-12-06,Notebook Set,Stationery,2.0,188.24,0.05,C1109,North
+ORD00265,2025-10-13,Desk Organizer,Stationery,3.0,429.44,0.0,C1215,South
+ORD00266,2025-11-13,Wireless Mouse,Electronics,3.0,855.06,0.05,C1196,South
+ORD00267,2025-01-21, Storage Basket ,Home & Kitchen,2.0,629.72,0.05,C1220,South
+ORD00268,2025-06-04,Cotton Kurta,Apparel,2.0,899.76,0.05,C1030,South
+ORD00269,2025-10-31,Desk Organizer,Stationery,1.0,461.79,0.0,C1197,North
+ORD00270,2025-05-03,Sketchbook,Stationery,2.0,297.65,0.15,C1199,South
+ORD00271,2025-05-10,Ceramic Mug,Home & Kitchen,5.0,232.82,0.0,C1160,West
+ORD00272,2025-02-05,Bluetooth Speaker,Electronics,1.0,1937.16,0.1,C1072,South
+ORD00273,2025-04-02,Steel Water Bottle,Home & Kitchen,2.0,357.85,0.1,C1193,North
+ORD00274,2025-06-16,USB-C Cable,Electronics,2.0,298.79,0.0,C1056,South
+ORD00275,2025-10-26,Classic T-Shirt,Apparel,1.0,463.14,0.05,C1217,South
+ORD00276,2025-07-11,Bluetooth Speaker,Electronics,3.0,1717.23,0.0,C1217,West
+ORD00277,2025-10-19,Cotton Kurta,Apparel,1.0,929.21,0.05,C1062,West
+ORD00278,2025-12-05,Ceramic Mug,Home & Kitchen,1.0,237.11,0.1,C1133,West
+ORD00279,2025-01-22,Wireless Mouse,Electronics,1.0,859.38,0.1,C1088,West
+ORD00280,2025-10-29,Denim Jeans,Apparel,2.0,1220.04,0.0,C1016,North
+ORD00281,2025-12-28,Denim Jeans,Apparel,3.0,1356.03,0.05,C1103,East
+ORD00282,2025-11-18,Storage Basket,Home & Kitchen,2.0,584.25,0.0,C1018,West
+ORD00283,2025-03-03,Cotton Kurta,Apparel,1.0,862.52,0.1,C1173,East
+ORD00284,2025-05-01,Notebook Set,Stationery,1.0,207.44,0.0,C1189,East
+ORD00285,2025-03-21,Desk Organizer,Stationery,1.0,453.95,0.0,C1085,East
+ORD00286,2025-07-22,Wireless Mouse,Electronics,2.0,752.35,0.05,C1155,East
+ORD00287,2025-09-04,Classic T-Shirt,Apparel,1.0,491.74,0.0,C1250,South
+ORD00288,2025-03-23,Bluetooth Speaker,Electronics,1.0,1893.92,0.0,C1010,South
+ORD00289,2025-10-05,Storage Basket,Home & Kitchen,2.0,598.22,0.0,C1161,West
+ORD00290,2025-08-08,Classic T-Shirt,Apparel,2.0,497.53,0.1,C1084,South
+ORD00291,2025-06-30,Sketchbook,Stationery,1.0,264.75,0.0,C1037,North
+ORD00292,2025-02-04,Ceramic Mug,Home & Kitchen,3.0,258.3,0.0,C1054,North
+ORD00293,2025-07-28,Sketchbook,Stationery,1.0,284.65,0.0,C1099,South
+ORD00294,2025-08-23,Bluetooth Speaker,Electronics,1.0,1915.8,0.0,C1040,West
+ORD00295,2025-10-03,Sketchbook,Stationery,2.0,268.41,0.05,C1063,West
+ORD00296,2025-01-04,Storage Basket,Home & Kitchen,2.0,633.5,0.1,C1248,North
+ORD00297,2025-05-19,Notebook Set,Stationery,1.0,197.08,0.15,C1133,West
+ORD00298,2025-12-02,Bluetooth Speaker,Electronics,3.0,1812.61,0.05,C1044,East
+ORD00299,2025-07-04,Ceramic Mug,Home & Kitchen,2.0,242.37,0.0,C1132,North
+ORD00300,2025-02-16,Notebook Set,Stationery,1.0,190.34,0.1,C1247,North
+ORD00301,2025-07-22,Steel Water Bottle,Home & Kitchen,1.0,357.7,0.0,C1172,North
+ORD00302,2025-01-24,Wireless Mouse,Electronics,1.0,843.59,0.0,C1130,South
+ORD00303,2025-08-10,Ceramic Mug,Home & Kitchen,1.0,261.06,0.1,C1032,North
+ORD00304,2025-01-05,Desk Organizer,Stationery,2.0,423.86,0.0,C1203,West
+ORD00305,2025-08-29,Wireless Mouse,Electronics,4.0,798.24,0.0,C1231,South
+ORD00306,2025-06-24,Cotton Kurta,Apparel,1.0,877.74,0.05,C1090,South
+ORD00307,2025-01-07,USB-C Cable,Electronics,2.0,312.23,0.1,C1056,North
+ORD00308,2025-09-17,Ceramic Mug,Home & Kitchen,2.0,238.86,0.0,C1217,South
+ORD00309,2025-03-23,Ceramic Mug,Home & Kitchen,1.0,261.92,0.1,C1109,West
+ORD00310,2025-03-15,Classic T-Shirt,Apparel,4.0,535.08,0.0,C1219,West
+ORD00311,2025-10-06, Desk Organizer ,Stationery,5.0,418.69,0.1,C1016,East
+ORD00312,2025-08-13, Ceramic Mug ,Home & Kitchen,2.0,235.2,0.05,C1178,West
+ORD00313,2025-01-28,Notebook Set,Stationery,1.0,199.31,0.0,C1232,West
+ORD00314,2025-12-20,Steel Water Bottle,Home & Kitchen,3.0,373.71,0.05,C1116,North
+ORD00315,2025-12-12,Steel Water Bottle,Home & Kitchen,5.0,355.63,0.1,C1032,East
+ORD00316,2025-04-05,Sketchbook,Stationery,1.0,260.63,0.05,C1215,North
+ORD00317,2025-05-05,Ceramic Mug,Home & Kitchen,2.0,240.44,0.0,C1007,South
+ORD00318,2025-11-05, Notebook Set ,Stationery,1.0,203.8,0.0,C1089,South
+ORD00319,2025-11-20, Denim Jeans ,Apparel,1.0,1204.93,0.0,C1114,South
+ORD00320,2025-02-21,Ceramic Mug,Home & Kitchen,2.0,240.22,0.0,C1172,South
+ORD00321,2025-08-13,USB-C Cable,Electronics,1.0,275.74,0.0,C1084,South
+ORD00322,2025-06-16,Notebook Set,Stationery,1.0,199.97,0.05,C1037,South
+ORD00323,2025-01-08,Steel Water Bottle,Home & Kitchen,1.0,326.68,0.1,C1209,North
+ORD00324,2025-12-10,Wireless Mouse,Electronics,5.0,815.92,0.1,C1197,West
+ORD00325,2025-09-27,Ceramic Mug,Home & Kitchen,2.0,234.93,0.0,C1011,
+ORD00326,2025-03-11,Ceramic Mug,Home & Kitchen,3.0,241.98,0.0,C1005,West
+ORD00327,2025-04-17,Denim Jeans,Apparel,1.0,1391.58,0.0,C1119,South
+ORD00328,2025-01-17,Ceramic Mug,Home & Kitchen,4.0,249.1,0.15,C1023,South
+ORD00329,2025-11-18,Notebook Set,Stationery,3.0,210.32,0.0,C1083,West
+ORD00330,2025-07-13, Denim Jeans ,Apparel,1.0,1201.54,0.0,C1141,East
+ORD00331,2025-03-15,Denim Jeans,Apparel,2.0,1249.84,0.0,C1101,East
+ORD00332,2025-05-08,Ceramic Mug,Home & Kitchen,1.0,263.05,0.05,C1067,West
+ORD00333,2025-03-20,Steel Water Bottle,Home & Kitchen,1.0,348.7,0.0,C1239,West
+ORD00334,2025-03-29,Denim Jeans,Apparel,3.0,1389.81,0.05,C1038,East
+ORD00335,2025-09-17,Sketchbook,Stationery,1.0,263.95,0.0,C1207,North
+ORD00336,2025-07-14,Wireless Mouse,Electronics,1.0,853.67,0.0,C1065,North
+ORD00337,2025-01-15,Cotton Kurta,Apparel,1.0,831.8,0.0,C1069,South
+ORD00338,2025-03-12,Steel Water Bottle,Home & Kitchen,1.0,339.39,0.0,C1152,North
+ORD00339,2025-01-10,Bluetooth Speaker,Electronics,5.0,1922.35,0.0,C1200,South
+ORD00340,2025-07-14,Bluetooth Speaker,Electronics,3.0,1898.1,0.1,C1043,West
+ORD00341,2025-06-08,Notebook Set,Stationery,1.0,212.67,0.0,C1232,West
+ORD00342,2025-12-29, Classic T-Shirt ,Apparel,4.0,522.89,0.05,C1193,West
+ORD00343,2025-05-08,Cotton Kurta,Apparel,1.0,833.19,0.0,C1025,South
+ORD00344,2025-12-21,Ceramic Mug,Home & Kitchen,4.0,264.69,0.0,C1190,South
+ORD00345,2025-04-30,Ceramic Mug,Home & Kitchen,1.0,249.11,0.0,C1192,East
+ORD00346,2025-05-09,Ceramic Mug,Home & Kitchen,3.0,239.31,0.15,C1002,West
+ORD00347,2025-10-14,Notebook Set,Stationery,1.0,188.49,0.1,C1076,South
+ORD00348,2025-08-02,Desk Organizer,Stationery,1.0,453.59,0.05,C1066,East
+ORD00349,2025-01-22,Notebook Set,Stationery,1.0,199.39,0.0,C1018,North
+ORD00350,2025-08-30,Desk Organizer,Stationery,3.0,426.44,0.0,C1031,East
+ORD00351,2025-08-03,Ceramic Mug,Home & Kitchen,1.0,233.23,0.15,C1191,West
+ORD00352,2025-06-16,Ceramic Mug,Home & Kitchen,4.0,232.58,0.0,C1147,West
+ORD00353,2025-12-06,Steel Water Bottle,Home & Kitchen,1.0,344.32,0.0,C1138,South
+ORD00354,2025-11-24,USB-C Cable,Electronics,2.0,291.3,0.05,C1164,North
+ORD00355,2025-10-19, Bluetooth Speaker ,Electronics,5.0,1747.24,0.0,C1218,South
+ORD00356,2025-07-16,Classic T-Shirt,Apparel,1.0,479.4,0.0,C1048,South
+ORD00357,2025-03-13,Wireless Mouse,Electronics,1.0,779.23,0.0,C1250,South
+ORD00358,2025-10-09,Wireless Mouse,Electronics,4.0,851.39,0.1,C1088,South
+ORD00359,2025-01-22,USB-C Cable,Electronics,5.0,297.01,0.0,C1111,North
+ORD00360,2025-07-25,Bluetooth Speaker,Electronics,2.0,1863.31,0.1,C1150,East
+ORD00361,2025-08-18,Bluetooth Speaker,Electronics,3.0,1905.23,0.0,C1025,North
+ORD00362,2025-07-23,Notebook Set,Stationery,2.0,196.46,0.0,C1225,East
+ORD00363,2025-05-04,Cotton Kurta,Apparel,1.0,954.81,0.1,C1021,South
+ORD00364,2025-03-14,Sketchbook,Stationery,2.0,283.93,0.0,C1152,North
+ORD00365,2025-04-20,USB-C Cable,Electronics,1.0,275.31,0.05,C1248,West
+ORD00366,2025-12-13,Ceramic Mug,Home & Kitchen,2.0,242.01,0.0,C1141,East
+ORD00367,2025-06-07,Desk Organizer,Stationery,5.0,418.74,0.0,C1001,South
+ORD00368,2025-03-07,Cotton Kurta,Apparel,1.0,936.98,0.0,C1154,North
+ORD00369,2025-12-02,Classic T-Shirt,Apparel,2.0,537.8,0.0,C1066,North
+ORD00370,2025-02-18,Storage Basket,Home & Kitchen,2.0,587.19,0.1,C1144,North
+ORD00371,2025-09-26,USB-C Cable,Electronics,3.0,292.76,0.05,C1108,North
+ORD00372,2025-04-29,Classic T-Shirt,Apparel,2.0,482.08,0.05,C1043,North
+ORD00373,2025-12-28,Notebook Set,Stationery,3.0,184.87,0.1,C1184,East
+ORD00374,2025-03-27,Ceramic Mug,Home & Kitchen,3.0,248.56,0.0,C1223,North
+ORD00375,2025-12-28,Notebook Set,Stationery,1.0,211.3,0.05,C1230,South
+ORD00376,2025-09-08,Ceramic Mug,Home & Kitchen,1.0,249.85,0.0,C1107,South
+ORD00377,2025-04-30,Cotton Kurta,Apparel,1.0,848.65,0.1,C1053,North
+ORD00378,2025-08-08,USB-C Cable,Electronics,3.0,286.44,0.0,C1143,North
+ORD00379,2025-01-04,Bluetooth Speaker,Electronics,5.0,1668.0,0.05,C1027,East
+ORD00380,2025-01-27,Bluetooth Speaker,Electronics,1.0,1658.23,0.05,C1050,South
+ORD00381,2025-12-28, Denim Jeans ,Apparel,1.0,1319.05,0.1,C1173,West
+ORD00382,2025-10-02,Notebook Set,Stationery,1.0,192.55,0.0,C1134,East
+ORD00383,2025-12-07,Sketchbook,Stationery,1.0,278.42,0.0,C1098,South
+ORD00384,2025-03-28,Classic T-Shirt,Apparel,4.0,468.97,0.0,C1188,North
+ORD00385,2025-10-07,Desk Organizer,Stationery,3.0,458.46,0.1,C1173,West
+ORD00386,2025-11-22,Wireless Mouse,Electronics,1.0,857.42,0.05,C1180,East
+ORD00387,2025-05-31,Bluetooth Speaker,Electronics,5.0,1701.25,0.0,C1110,South
+ORD00388,2025-05-04,Wireless Mouse,Electronics,1.0,786.76,0.05,C1121,East
+ORD00389,2025-05-07,USB-C Cable,Electronics,2.0,312.89,0.05,C1165,South
+ORD00390,2025-01-10,Classic T-Shirt,Apparel,1.0,501.19,0.1,C1152,East
+ORD00391,2025-05-01,Wireless Mouse,Electronics,1.0,828.92,0.1,C1023,East
+ORD00392,2025-12-17,Steel Water Bottle,Home & Kitchen,1.0,361.47,0.0,C1148,South
+ORD00393,2025-05-01,Denim Jeans,Apparel,1.0,1272.68,0.1,C1013,South
+ORD00394,2025-12-26,Classic T-Shirt,Apparel,1.0,489.69,0.1,C1059,West
+ORD00395,2025-07-29,Wireless Mouse,Electronics,4.0,786.49,0.0,C1028,West
+ORD00396,2025-12-07,Storage Basket,Home & Kitchen,4.0,629.62,0.0,C1050,East
+ORD00397,2025-01-13,Sketchbook,Stationery,3.0,269.05,0.0,C1150,West
+ORD00398,2025-12-10,Storage Basket,Home & Kitchen,2.0,591.31,0.0,C1064,North
+ORD00399,2025-02-05,Notebook Set,Stationery,1.0,190.3,0.0,C1249,North
+ORD00400,2025-03-20,Wireless Mouse,Electronics,1.0,815.13,0.1,C1109,West
+ORD00401,2025-02-25, Desk Organizer ,Stationery,3.0,458.43,0.05,C1155,East
+ORD00402,2025-08-22,Classic T-Shirt,Apparel,4.0,505.83,0.1,C1036,North
+ORD00403,2025-05-18,Storage Basket,Home & Kitchen,2.0,592.96,0.0,C1208,South
+ORD00404,2025-04-02,Steel Water Bottle,Home & Kitchen,4.0,330.74,0.0,C1235,East
+ORD00405,2025-04-18,Storage Basket,Home & Kitchen,2.0,642.13,0.0,C1138,North
+ORD00406,2025-09-10,Cotton Kurta,Apparel,1.0,831.54,0.05,C1154,West
+ORD00407,2025-09-05,Storage Basket,Home & Kitchen,2.0,589.04,0.0,C1182,East
+ORD00408,2025-02-06,Sketchbook,Stationery,1.0,281.57,0.1,C1119,East
+ORD00409,2025-10-29,Wireless Mouse,Electronics,2.0,750.71,0.1,C1096,West
+ORD00410,2025-01-10,Classic T-Shirt,Apparel,,459.39,0.0,C1217,North
+ORD00411,2025-05-03,Ceramic Mug,Home & Kitchen,1.0,259.66,0.1,C1196,North
+ORD00412,2025-08-27, Cotton Kurta ,Apparel,4.0,839.84,0.0,C1235,West
+ORD00413,2025-12-11,Ceramic Mug,Home & Kitchen,2.0,259.1,0.0,C1026,East
+ORD00414,2025-02-22,Cotton Kurta,Apparel,2.0,877.6,0.1,C1231,South
+ORD00415,2025-10-27,Bluetooth Speaker,Electronics,1.0,1711.92,0.1,C1140,West
+ORD00416,2025-10-28,Notebook Set,Stationery,6.0,201.27,0.0,C1233,East
+ORD00417,2025-05-07,Cotton Kurta,Apparel,1.0,838.94,0.0,C1086,West
+ORD00418,2025-07-18,Storage Basket,Home & Kitchen,1.0,595.59,0.0,C1158,West
+ORD00419,2025-05-18,USB-C Cable,Electronics,2.0,302.58,0.1,C1050,South
+ORD00420,2025-10-30,USB-C Cable,Electronics,3.0,315.57,0.15,C1221,South
+ORD00421,2025-03-27,Bluetooth Speaker,Electronics,1.0,1921.89,0.0,C1204,East
+ORD00422,2025-07-16,Cotton Kurta,Apparel,3.0,884.12,0.0,C1027,South
+ORD00423,2025-03-08,Notebook Set,Stationery,3.0,185.31,0.05,C1123,South
+ORD00424,2025-04-21,Ceramic Mug,Home & Kitchen,1.0,247.88,0.05,C1154,South
+ORD00425,2025-02-14,Notebook Set,Stationery,2.0,193.95,0.1,C1119,West
+ORD00426,2025-04-10,Wireless Mouse,Electronics,1.0,829.58,0.0,C1039,East
+ORD00427,2025-03-04,Storage Basket,Home & Kitchen,4.0,587.62,0.1,C1064,West
+ORD00428,2025-07-01,Denim Jeans,Apparel,3.0,1201.76,0.0,C1219,West
+ORD00429,2025-11-07,Storage Basket,Home & Kitchen,1.0,619.08,0.0,C1173,West
+ORD00430,2025-04-24,Denim Jeans,Apparel,2.0,1397.1,0.0,C1058,South
+ORD00431,2025-10-29,Notebook Set,Stationery,1.0,214.63,0.0,C1035,East
+ORD00432,2025-07-08,Notebook Set,Stationery,1.0,196.15,0.0,C1129,West
+ORD00433,2025-11-04,Denim Jeans,Apparel,1.0,1195.64,0.0,C1197,East
+ORD00434,2025-01-13,Cotton Kurta,Apparel,1.0,853.19,0.0,C1084,East
+ORD00435,2025-02-04,Classic T-Shirt,Apparel,3.0,473.05,0.1,C1144,South
+ORD00436,2025-06-22,Cotton Kurta,Apparel,1.0,898.57,0.0,C1196,North
+ORD00437,2025-01-13,Notebook Set,Stationery,1.0,211.17,0.1,C1182,West
+ORD00438,2025-07-05,USB-C Cable,Electronics,2.0,306.31,0.1,C1175,North
+ORD00439,2025-08-03,Classic T-Shirt,Apparel,4.0,494.63,0.05,C1079,West
+ORD00440,2025-10-25,Denim Jeans,Apparel,3.0,1205.24,0.1,C1248,South
+ORD00441,2025-08-28,Storage Basket,Home & Kitchen,1.0,564.04,0.0,C1163,North
+ORD00442,2025-02-03,Steel Water Bottle,Home & Kitchen,1.0,359.71,0.05,C1160,South
+ORD00443,2025-07-31,Steel Water Bottle,Home & Kitchen,3.0,-10.0,0.05,C1234,West
+ORD00444,2025-10-22,Wireless Mouse,Electronics,2.0,821.95,0.1,C1212,West
+ORD00445,2025-01-04,Classic T-Shirt,Apparel,2.0,468.58,0.0,C1124,South
+ORD00446,2025-07-28,Denim Jeans,Apparel,1.0,1204.43,0.1,C1183,East
+ORD00447,2025-06-02,Classic T-Shirt,Apparel,2.0,481.64,0.05,C1010,South
+ORD00448,2025-02-09,Cotton Kurta,Apparel,-1.0,834.86,0.15,C1231,West
+ORD00449,2025-12-06,Ceramic Mug,Home & Kitchen,1.0,258.42,0.0,C1185,South
+ORD00450,2025-07-19,Notebook Set,Stationery,,203.56,0.05,C1116,South
+ORD00451,2025-07-10,Classic T-Shirt,Apparel,3.0,493.65,0.0,C1093,South
+ORD00452,2025-10-04,Wireless Mouse,Electronics,2.0,833.2,0.0,C1156,South
+ORD00453,2025-05-19,Notebook Set,Stationery,1.0,207.22,0.1,C1116,South
+ORD00454,2025-08-30,Bluetooth Speaker,Electronics,1.0,1774.37,0.0,C1054,North
+ORD00455,2025-04-26,Ceramic Mug,Home & Kitchen,1.0,245.43,0.05,C1075,North
+ORD00456,2025-12-06,Wireless Mouse,Electronics,2.0,750.23,0.0,C1063,South
+ORD00457,2025-02-22,Storage Basket,Home & Kitchen,1.0,566.59,0.0,C1101,East
+ORD00458,2025-04-23,Storage Basket,Home & Kitchen,1.0,553.4,0.1,C1083,North
+ORD00459,2025-09-16,Denim Jeans,Apparel,5.0,1323.45,0.05,C1032,West
+ORD00460,2025-09-25,Sketchbook,Stationery,1.0,284.49,0.0,C1023,South
+ORD00461,2025-06-09,Denim Jeans,Apparel,5.0,1273.88,0.05,C1233,West
+ORD00462,2025-08-05,Desk Organizer,Stationery,2.0,463.68,0.0,C1015,South
+ORD00463,2025-02-25,Ceramic Mug,Home & Kitchen,1.0,238.81,0.1,C1169,North
+ORD00464,2025-04-12,Sketchbook,Stationery,1.0,263.87,0.05,C1178,North
+ORD00465,2025-03-03,USB-C Cable,Electronics,2.0,292.55,0.05,C1148,East
+ORD00466,2025-07-30,Wireless Mouse,Electronics,3.0,820.33,0.0,C1052,South
+ORD00467,2025-09-17,Cotton Kurta,Apparel,1.0,969.0,0.0,C1022,West
+ORD00468,2025-12-28,Cotton Kurta,Apparel,2.0,941.91,0.15,C1163,North
+ORD00469,2025-11-16,Bluetooth Speaker,Electronics,1.0,1804.15,0.0,C1173,North
+ORD00470,2025-02-27,Cotton Kurta,Apparel,4.0,941.76,0.15,C1228,East
+ORD00471,2025-02-06,Cotton Kurta,Apparel,2.0,873.17,0.0,C1040,North
+ORD00472,2025-07-29,Ceramic Mug,Home & Kitchen,2.0,234.19,0.1,C1234,West
+ORD00473,2025-07-04,USB-C Cable,Electronics,2.0,309.34,0.1,C1044,South
+ORD00474,2025-08-12,Classic T-Shirt,Apparel,2.0,464.38,0.0,C1125,East
+ORD00475,2025-01-23,Denim Jeans,Apparel,2.0,1359.45,0.1,C1036,East
+ORD00476,2025-04-23,Wireless Mouse,Electronics,1.0,818.83,0.0,C1214,North
+ORD00477,2025-12-24,Notebook Set,Stationery,3.0,185.77,0.1,C1187,East
+ORD00478,2025-07-14,Classic T-Shirt,Apparel,2.0,482.47,0.1,C1028,West
+ORD00479,2025-06-13,Cotton Kurta,Apparel,2.0,963.46,0.0,C1175,South
+ORD00480,2025-06-09,Steel Water Bottle,Home & Kitchen,2.0,347.56,0.05,C1059,South
+ORD00481,2025-06-01,Cotton Kurta,Apparel,3.0,913.73,0.0,C1036,West
+ORD00482,2025-05-18,Cotton Kurta,Apparel,1.0,968.81,0.05,C1017,East
+ORD00483,2025-11-29,Denim Jeans,Apparel,2.0,1387.18,0.1,C1002,South
+ORD00484,2025-05-23,Sketchbook,Stationery,1.0,285.36,0.1,C1188,South
+ORD00485,2025-03-17,Classic T-Shirt,Apparel,2.0,521.58,0.05,C1222,South
+ORD00486,2025-06-18,Denim Jeans,Apparel,1.0,1251.18,0.05,C1155,South
+ORD00487,2025-02-20,Desk Organizer,Stationery,1.0,445.12,0.0,C1062,North
+ORD00488,2025-02-22,Ceramic Mug,Home & Kitchen,1.0,267.49,0.1,C1183,West
+ORD00489,2025-02-05,Desk Organizer,Stationery,1.0,456.97,0.05,C1218,South
+ORD00490,2025-03-29,Classic T-Shirt,Apparel,2.0,521.43,0.1,C1056,South
+ORD00491,2025-12-06,Ceramic Mug,Home & Kitchen,2.0,263.93,0.1,C1052,West
+ORD00492,2025-05-23, Ceramic Mug ,Home & Kitchen,1.0,232.41,0.0,C1242,South
+ORD00493,2025-02-27,Sketchbook,Stationery,1.0,299.51,0.1,C1043,East
+ORD00494,2025-01-22,Steel Water Bottle,Home & Kitchen,2.0,331.5,0.1,C1170,South
+ORD00495,2025-09-06,USB-C Cable,Electronics,2.0,296.67,0.05,C1064,North
+ORD00496,2025-10-06,Cotton Kurta,Apparel,3.0,874.89,0.0,C1198,North
+ORD00497,2025-06-15,Denim Jeans,Apparel,2.0,1221.87,0.05,C1184,South
+ORD00498,2025-12-11,Desk Organizer,Stationery,2.0,467.75,0.1,C1181,North
+ORD00499,2025-01-27,Steel Water Bottle,Home & Kitchen,1.0,330.74,0.15,C1195,North
+ORD00500,2025-04-10,Wireless Mouse,Electronics,2.0,826.07,0.1,C1207,North
+ORD00501,2025-05-03,Wireless Mouse,Electronics,1.0,750.9,0.0,C1001,South
+ORD00502,2025-01-17,Classic T-Shirt,Apparel,4.0,484.0,0.15,C1018,West
+ORD00503,2025-12-11,USB-C Cable,Electronics,2.0,279.68,0.0,C1036,North
+ORD00504,2025-10-20,Sketchbook,Stationery,2.0,300.63,0.05,C1152,North
+ORD00505,2025-02-16,Steel Water Bottle,Home & Kitchen,1.0,349.4,0.1,C1217,South
+ORD00506,2025-10-25,Denim Jeans,Apparel,2.0,1346.18,0.1,C1037,South
+ORD00507,2025-02-22,Denim Jeans,Apparel,1.0,1310.11,0.05,C1055,South
+ORD00508,2025-08-25,Wireless Mouse,Electronics,1.0,754.81,0.1,C1135,West
+ORD00509,2025-10-05,Desk Organizer,Stationery,2.0,443.02,0.0,C1059,North
+ORD00510,2025-01-23,Classic T-Shirt,Apparel,1.0,515.07,0.1,C1244,North
+ORD00511,2025-08-04,Bluetooth Speaker,Electronics,1.0,1658.82,0.0,C1019,South
+ORD00512,2025-05-01,Notebook Set,Stationery,2.0,205.23,0.0,C1198,East
+ORD00513,2025-10-22,Denim Jeans,Apparel,2.0,1286.39,0.0,C1033,North
+ORD00514,2025-07-09,Denim Jeans,Apparel,1.0,1393.38,0.0,C1061,South
+ORD00515,2025-05-10,Desk Organizer,Stationery,2.0,479.11,0.0,C1034,East
+ORD00516,2025-02-11,Steel Water Bottle,Home & Kitchen,3.0,370.19,0.0,C1031,East
+ORD00517,2025-12-21,Cotton Kurta,Apparel,3.0,841.67,0.0,C1202,East
+ORD00518,2025-03-13,Classic T-Shirt,Apparel,2.0,464.81,0.0,C1011,South
+ORD00519,2025-01-24,Denim Jeans,Apparel,3.0,1392.85,0.0,C1058,West
+ORD00520,2025-04-25,USB-C Cable,Electronics,2.0,308.77,0.1,C1149,South
+ORD00521,2025-06-01,Steel Water Bottle,Home & Kitchen,1.0,358.19,0.0,C1134,South
+ORD00522,2025-02-07,Denim Jeans,Apparel,2.0,1325.7,0.0,C1024,North
+ORD00523,2025-02-18,Steel Water Bottle,Home & Kitchen,2.0,353.41,0.0,C1109,South
+ORD00524,2025-01-04,Bluetooth Speaker,Electronics,2.0,1793.02,0.0,C1242,West
+ORD00525,2025-06-23,Cotton Kurta,Apparel,5.0,930.46,0.0,C1080,North
+ORD00526,2025-03-17,Wireless Mouse,Electronics,1.0,854.4,0.1,C1007,East
+ORD00527,2025-10-14,Cotton Kurta,Apparel,1.0,841.72,0.0,C1155,South
+ORD00528,2025-04-30,Ceramic Mug,Home & Kitchen,2.0,261.01,0.05,C1004,West
+ORD00529,2025-12-07,Notebook Set,Stationery,3.0,,0.0,C1174,South
+ORD00530,2025-01-10,Steel Water Bottle,Home & Kitchen,1.0,350.38,0.1,C1202,South
+ORD00531,2025-04-17,Steel Water Bottle,Home & Kitchen,3.0,329.88,0.0,C1175,East
+ORD00532,2025-07-03,Bluetooth Speaker,Electronics,2.0,1877.82,0.0,C1223,North
+ORD00533,2025-01-12,Classic T-Shirt,Apparel,1.0,498.64,0.0,C1142,South
+ORD00534,2025-07-24,USB-C Cable,Electronics,2.0,290.3,0.0,C1069,East
+ORD00535,2025-08-02,Steel Water Bottle,Home & Kitchen,1.0,359.84,0.05,C1100,South
+ORD00536,2025-02-19,Desk Organizer,Stationery,1.0,474.51,0.0,C1091,South
+ORD00537,2025-07-05,Classic T-Shirt,Apparel,4.0,495.4,0.15,C1009,West
+ORD00538,2025-04-15,Desk Organizer,Stationery,2.0,427.64,0.05,C1242,West
+ORD00539,2025-07-20,Ceramic Mug,Home & Kitchen,1.0,234.59,0.05,C1061,North
+ORD00540,2025-12-22,Bluetooth Speaker,Electronics,6.0,1854.25,0.05,C1028,North
+ORD00541,2025-07-12,Storage Basket,Home & Kitchen,4.0,635.23,0.1,C1209,South
+ORD00542,2025-05-15,Storage Basket,Home & Kitchen,1.0,614.22,0.0,C1063,South
+ORD00543,2025-07-16,Cotton Kurta,Apparel,1.0,916.27,0.1,C1014,North
+ORD00544,2025-01-24,Notebook Set,Stationery,1.0,204.06,0.0,C1213,North
+ORD00545,2025-05-09,Classic T-Shirt,Apparel,3.0,532.88,0.1,C1133,East
+ORD00546,2025-03-07,Sketchbook,Stationery,1.0,260.07,0.05,C1140,South
+ORD00547,2025-06-11,Classic T-Shirt,Apparel,2.0,480.16,0.0,C1081,North
+ORD00548,2025-11-18,Notebook Set,Stationery,1.0,207.17,0.0,C1092,West
+ORD00549,2025-01-14,Wireless Mouse,Electronics,1.0,739.57,0.15,C1173,West
+ORD00550,2025-04-18,Desk Organizer,Stationery,1.0,469.97,0.0,C1235,West
+ORD00551,2025-05-08,Cotton Kurta,Apparel,2.0,941.15,0.05,C1002,South
+ORD00552,2025-06-26,Sketchbook,Stationery,1.0,276.64,0.05,C1078,South
+ORD00553,2025-05-17,Ceramic Mug,Home & Kitchen,3.0,265.3,0.1,C1139,East
+ORD00554,2025-04-14,USB-C Cable,Electronics,3.0,302.01,0.05,C1111,West
+ORD00555,2025-03-21,Bluetooth Speaker,Electronics,1.0,1798.53,0.05,C1170,North
+ORD00556,2025-12-16,Wireless Mouse,Electronics,1.0,826.75,0.1,C1214,South
+ORD00557,2025-06-01,Ceramic Mug,Home & Kitchen,2.0,229.11,0.05,C1214,East
+ORD00558,2025-01-11,Storage Basket,Home & Kitchen,3.0,616.38,0.0,C1142,West
+ORD00559,2025-08-08,Sketchbook,Stationery,5.0,297.7,0.1,C1177,East
+ORD00560,2025-11-06,Storage Basket,Home & Kitchen,3.0,634.29,0.0,C1044,South
+ORD00561,2025-10-19,Ceramic Mug,Home & Kitchen,3.0,262.45,0.0,C1122,North
+ORD00562,2025-01-18, Ceramic Mug ,Home & Kitchen,1.0,257.17,0.1,C1152,East
+ORD00563,2025-03-25, Denim Jeans ,Apparel,1.0,1379.81,0.0,C1136,North
+ORD00564,2025-11-20,Steel Water Bottle,Home & Kitchen,1.0,376.79,0.0,C1062,West
+ORD00565,2025-11-07,Wireless Mouse,Electronics,1.0,772.47,0.1,C1235,West
+ORD00566,2025-07-01,Wireless Mouse,Electronics,2.0,825.98,0.0,C1019,North
+ORD00567,2025-11-27,Sketchbook,Stationery,3.0,278.24,0.1,C1057,West
+ORD00568,2025-04-22,Denim Jeans,Apparel,1.0,1287.72,0.0,C1150,West
+ORD00569,2025-05-22,Cotton Kurta,Apparel,2.0,837.68,0.1,C1157,South
+ORD00570,2025-10-17,USB-C Cable,Electronics,4.0,293.76,0.0,C1187,South
+ORD00571,2025-10-12,Notebook Set,Stationery,1.0,185.84,0.0,C1119,West
+ORD00572,2025-12-31,Desk Organizer,Stationery,4.0,,0.0,C1002,North
+ORD00573,2025-07-02,Desk Organizer,Stationery,1.0,423.37,0.0,C1154,North
+ORD00574,2025-03-14,USB-C Cable,Electronics,1.0,304.5,0.1,C1230,East
+ORD00575,2025-08-08,Steel Water Bottle,Home & Kitchen,1.0,338.98,0.15,C1127,
+ORD00576,2025-08-15,Ceramic Mug,Home & Kitchen,3.0,255.71,0.05,C1194,East
+ORD00577,2025-11-20,USB-C Cable,Electronics,3.0,303.73,0.0,C1242,East
+ORD00578,2025-04-22,Notebook Set,Stationery,1.0,208.7,0.0,C1016,South
+ORD00579,2025-09-18,Notebook Set,Stationery,1.0,184.73,0.1,C1008,South
+ORD00580,not-a-date,Cotton Kurta,Apparel,3.0,869.85,0.0,C1098,South
+ORD00581,2025-07-17,Steel Water Bottle,Home & Kitchen,1.0,329.93,0.0,C1051,West
+ORD00582,2025-07-15,Cotton Kurta,Apparel,4.0,955.1,0.05,C1015,South
+ORD00583,2025-04-02,Cotton Kurta,Apparel,1.0,881.74,0.05,C1105,South
+ORD00584,2025-11-05,Cotton Kurta,Apparel,1.0,953.42,0.0,C1153,East
+ORD00585,2025-04-19,Classic T-Shirt,Apparel,2.0,472.73,0.0,C1070,South
+ORD00586,2025-02-03,Classic T-Shirt,Apparel,1.0,535.11,0.05,C1047,South
+ORD00587,2025-09-08,Wireless Mouse,Electronics,1.0,804.44,0.1,C1010,South
+ORD00588,2025-04-14,Classic T-Shirt,Apparel,1.0,493.41,0.1,C1075,South
+ORD00589,2025-06-03,USB-C Cable,Electronics,1.0,282.4,0.0,C1144,East
+ORD00590,2025-10-25,USB-C Cable,Electronics,3.0,322.55,0.1,C1110,West
+ORD00591,2025-11-24,USB-C Cable,Electronics,3.0,297.81,0.05,C1209,South
+ORD00592,2025-09-04,Ceramic Mug,Home & Kitchen,3.0,260.93,0.15,C1213,South
+ORD00593,2025-07-25,Bluetooth Speaker,Electronics,4.0,1916.12,0.05,C1178,East
+ORD00594,2025-11-26,Sketchbook,Stationery,1.0,292.2,0.0,C1042,North
+ORD00595,2025-06-19,Notebook Set,Stationery,2.0,185.95,0.05,C1048,South
+ORD00596,2025-11-11,Steel Water Bottle,Home & Kitchen,3.0,349.64,0.0,C1040,South
+ORD00597,2025-10-02,Steel Water Bottle,Home & Kitchen,2.0,330.3,0.15,C1232,South
+ORD00598,2025-05-28,Cotton Kurta,Apparel,1.0,940.72,0.0,C1023,South
+ORD00599,2025-03-23,Wireless Mouse,Electronics,4.0,857.97,0.05,C1166,West
+ORD00600,2025-06-21,Storage Basket,Home & Kitchen,2.0,558.58,0.1,C1199,West
+ORD00601,2025-08-30,Notebook Set,Stationery,4.0,190.28,0.0,C1022,West
+ORD00602,2025-03-13,Denim Jeans,Apparel,1.0,1340.18,0.0,C1241,South
+ORD00603,2025-01-04,Denim Jeans,Apparel,2.0,1330.82,0.05,C1006,West
+ORD00604,2025-08-24,Cotton Kurta,Apparel,1.0,856.8,0.0,C1104,North
+ORD00605,2025-04-10,Denim Jeans,Apparel,2.0,1325.93,0.1,C1006,West
+ORD00606,2025-12-08,Denim Jeans,Apparel,4.0,1284.64,0.0,C1248,South
+ORD00607,2025-06-06,USB-C Cable,Electronics,3.0,311.85,0.05,C1027,North
+ORD00608,2025-07-16,USB-C Cable,Electronics,2.0,288.03,0.0,C1201,East
+ORD00609,2025-12-08,Ceramic Mug,Home & Kitchen,2.0,247.81,0.0,C1020,East
+ORD00610,2025-06-10,Classic T-Shirt,Apparel,3.0,481.67,0.05,C1216,East
+ORD00611,2025-08-23,Wireless Mouse,Electronics,4.0,800.07,0.05,C1160,North
+ORD00612,2025-09-15,Cotton Kurta,Apparel,1.0,867.02,0.0,C1212,East
+ORD00613,2025-05-23,Cotton Kurta,Apparel,3.0,890.02,0.05,C1109,South
+ORD00614,2025-01-30,Classic T-Shirt,Apparel,2.0,486.52,0.1,C1139,East
+ORD00615,2025-04-29,Cotton Kurta,Apparel,2.0,894.26,0.0,C1211,North
+ORD00616,2025-03-16,Classic T-Shirt,Apparel,5.0,492.0,0.0,C1039,North
+ORD00617,2025-12-14,Ceramic Mug,Home & Kitchen,2.0,257.48,0.0,C1072,North
+ORD00618,2025-12-22,Sketchbook,Stationery,3.0,268.05,0.0,C1211,South
+ORD00619,2025-08-31,Storage Basket,Home & Kitchen,4.0,610.51,0.0,C1010,North
+ORD00620,2025-05-27,Denim Jeans,Apparel,1.0,1363.49,0.05,C1059,South
+ORD00621,2025-07-13,USB-C Cable,Electronics,3.0,317.24,0.0,C1174,South
+ORD00622,2025-10-27,Ceramic Mug,Home & Kitchen,3.0,244.85,0.0,C1102,East
+ORD00623,2025-07-09,USB-C Cable,Electronics,1.0,285.5,0.1,C1044,West
+ORD00624,2025-05-07,Cotton Kurta,Apparel,2.0,904.27,0.1,C1025,West
+ORD00625,2025-02-20,Storage Basket,Home & Kitchen,2.0,-10.0,0.0,C1152,South
+ORD00626,2025-07-01,Steel Water Bottle,Home & Kitchen,2.0,348.87,0.0,C1090,North
+ORD00627,2025-01-27,Denim Jeans,Apparel,2.0,1232.04,0.1,C1081,North
+ORD00628,2025-03-18, Notebook Set ,Stationery,1.0,196.63,0.15,C1158,East
+ORD00629,2025-12-11,Classic T-Shirt,Apparel,2.0,534.68,0.0,C1015,South
+ORD00630,2025-05-25,Denim Jeans,Apparel,2.0,1252.0,0.0,C1084,South
+ORD00631,2025-02-02,Denim Jeans,Apparel,1.0,1224.87,0.15,C1144,South
+ORD00632,2025-02-22,Denim Jeans,Apparel,1.0,1237.13,0.0,C1164,South
+ORD00633,2025-02-20,USB-C Cable,Electronics,1.0,296.18,0.05,C1053,South
+ORD00634,2025-03-27,Classic T-Shirt,Apparel,1.0,496.35,0.15,C1118,West
+ORD00635,2025-12-30,Ceramic Mug,Home & Kitchen,2.0,229.64,0.0,C1060,South
+ORD00636,2025-09-20,Denim Jeans,Apparel,2.0,1269.3,0.1,C1085,South
+ORD00637,2025-04-20,Denim Jeans,Apparel,2.0,1226.77,0.0,C1135,East
+ORD00638,2025-04-15,Denim Jeans,Apparel,4.0,1204.02,0.05,C1066,East
+ORD00639,2025-08-25,Ceramic Mug,Home & Kitchen,1.0,257.82,0.0,C1063,North
+ORD00640,2025-06-01,Desk Organizer,Stationery,3.0,481.1,0.05,C1079,East
+ORD00641,2025-08-08,Desk Organizer,Stationery,2.0,438.59,0.05,C1121,East
+ORD00642,2025-10-24,Steel Water Bottle,Home & Kitchen,1.0,342.23,0.1,C1032,South
+ORD00643,2025-07-08,Denim Jeans,Apparel,4.0,1294.96,0.0,C1189,South
+ORD00644,2025-05-05,Steel Water Bottle,Home & Kitchen,2.0,374.11,0.05,C1067,East
+ORD00645,2025-06-29,Notebook Set,Stationery,3.0,192.41,0.15,C1113,South
+ORD00646,2025-06-04,Sketchbook,Stationery,2.0,263.89,0.05,C1201,North
+ORD00647,2025-02-19,Cotton Kurta,Apparel,2.0,957.99,0.0,C1198,South
+ORD00648,2025-05-28,Ceramic Mug,Home & Kitchen,1.0,230.24,0.0,C1162,East
+ORD00649,2025-06-08,Denim Jeans,Apparel,1.0,1271.87,0.0,C1144,West
+ORD00650,2025-02-08,Storage Basket,Home & Kitchen,4.0,602.76,0.05,C1078,North
+ORD00651,2025-09-03,Classic T-Shirt,Apparel,3.0,525.82,0.0,C1045,North
+ORD00652,2025-03-15,Wireless Mouse,Electronics,2.0,822.87,0.1,C1081,South
+ORD00653,2025-08-04,Wireless Mouse,Electronics,1.0,851.08,0.0,C1165,East
+ORD00654,2025-01-19,Desk Organizer,Stationery,2.0,436.19,0.1,C1182,West
+ORD00655,2025-08-11,Bluetooth Speaker,Electronics,1.0,1824.76,0.1,C1126,South
+ORD00656,2025-07-10,Sketchbook,Stationery,3.0,296.28,0.0,C1121,West
+ORD00657,2025-08-12,Storage Basket,Home & Kitchen,1.0,627.6,0.1,C1039,West
+ORD00658,2025-10-13,Ceramic Mug,Home & Kitchen,2.0,229.89,0.0,C1157,West
+ORD00659,2025-10-04,Bluetooth Speaker,Electronics,1.0,1664.72,0.0,C1178,South
+ORD00660,2025-06-05,Classic T-Shirt,Apparel,2.0,493.82,0.0,C1064,South
+ORD00661,2025-06-29,Ceramic Mug,Home & Kitchen,1.0,252.22,0.0,C1135,West
+ORD00662,2025-01-14,Ceramic Mug,Home & Kitchen,1.0,249.95,0.0,C1018,West
+ORD00663,2025-04-26,Wireless Mouse,Electronics,1.0,737.56,0.0,C1100,South
+ORD00664,2025-08-22,Sketchbook,Stationery,2.0,301.13,0.0,C1115,West
+ORD00665,2025-02-16,Wireless Mouse,Electronics,5.0,818.69,0.1,C1139,West
+ORD00666,2025-10-09,USB-C Cable,Electronics,2.0,313.68,0.0,C1032,North
+ORD00667,2025-03-02,Storage Basket,Home & Kitchen,1.0,620.44,0.05,C1018,West
+ORD00668,2025-11-26,Storage Basket,Home & Kitchen,1.0,,0.0,C1070,North
+ORD00669,2025-01-26,Classic T-Shirt,Apparel,2.0,518.66,0.1,C1202,North
+ORD00670,2025-09-06,Ceramic Mug,Home & Kitchen,1.0,256.94,0.0,C1016,South
+ORD00671,2025-04-06,Wireless Mouse,Electronics,1.0,821.88,0.0,C1029,West
+ORD00672,2025-04-04,Denim Jeans,Apparel,1.0,1264.59,0.0,C1172,North
+ORD00673,2025-07-26,Wireless Mouse,Electronics,1.0,806.24,0.0,C1219,West
+ORD00674,2025-09-09,USB-C Cable,Electronics,3.0,278.29,0.0,C1009,South
+ORD00675,2025-10-22,Storage Basket,Home & Kitchen,2.0,630.45,0.0,C1218,South
+ORD00676,2025-07-12,Cotton Kurta,Apparel,3.0,830.07,0.0,C1180,
+ORD00677,2025-04-11,Denim Jeans,Apparel,1.0,1305.39,0.1,C1086,North
+ORD00678,2025-11-04,Ceramic Mug,Home & Kitchen,5.0,267.29,0.1,C1109,West
+ORD00679,2025-04-14,USB-C Cable,Electronics,2.0,295.31,0.1,C1139,West
+ORD00680,2025-10-17,Sketchbook,Stationery,1.0,295.18,0.0,C1220,South
+ORD00681,2025-01-16,Notebook Set,Stationery,1.0,205.37,0.0,C1245,East
+ORD00682,2025-05-10, Denim Jeans ,Apparel,3.0,1227.56,0.1,C1250,West
+ORD00683,2025-03-20,Wireless Mouse,Electronics,1.0,743.43,0.0,C1191,West
+ORD00684,2025-08-04,Ceramic Mug,Home & Kitchen,1.0,252.56,0.0,C1075,South
+ORD00685,2025-09-09,USB-C Cable,Electronics,5.0,291.84,0.0,C1051,East
+ORD00686,2025-02-15,Steel Water Bottle,Home & Kitchen,4.0,356.12,0.0,C1220,South
+ORD00687,2025-10-19,Notebook Set,Stationery,1.0,212.84,0.1,C1006,South
+ORD00688,2025-11-08,Notebook Set,Stationery,2.0,184.96,0.0,C1223,North
+ORD00689,2025-07-21,Bluetooth Speaker,Electronics,3.0,1920.0,0.0,C1162,North
+ORD00690,2025-12-09,Ceramic Mug,Home & Kitchen,4.0,230.07,0.0,C1005,West
+ORD00691,2025-11-23,Denim Jeans,Apparel,3.0,1346.85,0.1,C1249,West
+ORD00692,2025-10-07,Storage Basket,Home & Kitchen,5.0,613.95,0.0,C1018,West
+ORD00693,2025-03-29,Sketchbook,Stationery,1.0,278.38,0.05,C1173,South
+ORD00694,2025-10-03,USB-C Cable,Electronics,5.0,280.73,0.0,C1136,East
+ORD00695,2025-06-10,Ceramic Mug,Home & Kitchen,1.0,233.81,0.0,C1037,North
+ORD00696,2025-12-10,Denim Jeans,Apparel,4.0,1381.36,0.0,C1240,South
+ORD00697,2025-07-10,Cotton Kurta,Apparel,1.0,948.2,0.1,C1126,North
+ORD00698,2025-04-21,USB-C Cable,Electronics,2.0,284.7,0.1,C1067,East
+ORD00699,2025-07-09,Steel Water Bottle,Home & Kitchen,1.0,331.15,0.1,C1084,West
+ORD00700,2025-02-27,Bluetooth Speaker,Electronics,2.0,1660.67,0.0,C1194,East
+ORD00701,2025-06-20,Desk Organizer,Stationery,1.0,475.94,0.0,C1124,North
+ORD00702,2025-05-16,Bluetooth Speaker,Electronics,1.0,1729.06,0.1,C1239,North
+ORD00703,2025-07-15,Classic T-Shirt,Apparel,2.0,483.43,0.0,C1129,North
+ORD00704,2025-08-12,Wireless Mouse,Electronics,1.0,758.95,0.0,C1036,North
+ORD00705,2025-03-28,Steel Water Bottle,Home & Kitchen,4.0,367.5,0.0,C1187,East
+ORD00706,2025-07-30,Notebook Set,Stationery,1.0,192.52,0.0,C1115,South
+ORD00707,2025-01-15,Notebook Set,Stationery,4.0,186.57,0.0,C1172,South
+ORD00708,2025-05-20,Wireless Mouse,Electronics,1.0,842.75,0.15,C1152,East
+ORD00709,2025-08-27,Storage Basket,Home & Kitchen,1.0,565.36,0.05,C1078,West
+ORD00710,2025-01-17,Ceramic Mug,Home & Kitchen,1.0,242.11,0.15,C1167,North
+ORD00711,2025-03-05,Denim Jeans,Apparel,2.0,1401.24,0.0,C1024,South
+ORD00712,2025-11-27,USB-C Cable,Electronics,1.0,306.39,0.0,C1225,West
+ORD00713,2025-03-28,Sketchbook,Stationery,1.0,285.07,0.1,C1179,West
+ORD00714,2025-03-30,Cotton Kurta,Apparel,3.0,843.2,0.0,C1192,South
+ORD00715,2025-07-14,Notebook Set,Stationery,5.0,186.49,0.0,C1005,South
+ORD00716,2025-05-11,Storage Basket,Home & Kitchen,3.0,624.93,0.0,C1169,East
+ORD00717,2025-06-16,Ceramic Mug,Home & Kitchen,1.0,244.92,0.0,C1216,West
+ORD00718,2025-03-10,Steel Water Bottle,Home & Kitchen,2.0,349.88,0.1,C1244,North
+ORD00719,2025-02-14,Steel Water Bottle,Home & Kitchen,1.0,337.75,0.1,C1246,North
+ORD00720,2025-03-31,Ceramic Mug,Home & Kitchen,3.0,262.97,0.05,C1008,West
+ORD00721,2025-07-23,USB-C Cable,Electronics,1.0,301.43,0.1,C1160,East
+ORD00722,2025-04-26,Ceramic Mug,Home & Kitchen,2.0,232.67,0.05,C1105,North
+ORD00723,2025-11-12,Steel Water Bottle,Home & Kitchen,2.0,348.64,0.0,C1248,South
+ORD00724,2025-09-15,Cotton Kurta,Apparel,2.0,867.9,0.0,C1246,East
+ORD00725,2025-03-27,USB-C Cable,Electronics,1.0,310.77,0.1,C1001,West
+ORD00726,2025-05-25, USB-C Cable ,Electronics,5.0,286.69,0.0,C1007,West
+ORD00727,2025-02-06,USB-C Cable,Electronics,2.0,276.86,0.05,C1041,East
+ORD00728,2025-07-02,Notebook Set,Stationery,1.0,194.68,0.1,C1076,North
+ORD00729,not-a-date,Classic T-Shirt,Apparel,2.0,465.09,0.05,C1206,West
+ORD00730,2025-12-12,Sketchbook,Stationery,2.0,279.26,0.1,C1213,East
+ORD00731,2025-03-09,Cotton Kurta,Apparel,2.0,932.06,0.0,C1221,North
+ORD00732,2025-02-18,Ceramic Mug,Home & Kitchen,1.0,242.29,0.0,C1245,East
+ORD00733,2025-05-04,Sketchbook,Stationery,2.0,287.92,0.0,C1231,West
+ORD00734,2025-11-23,Classic T-Shirt,Apparel,5.0,483.32,0.05,C1055,South
+ORD00735,2025-10-23,Cotton Kurta,Apparel,1.0,891.32,0.0,C1081,North
+ORD00736,2025-08-25,Wireless Mouse,Electronics,3.0,749.05,0.05,C1235,West
+ORD00737,2025-11-14,Denim Jeans,Apparel,2.0,1288.03,0.0,C1134,East
+ORD00738,2025-04-10,Classic T-Shirt,Apparel,1.0,514.15,0.0,C1245,North
+ORD00739,2025-03-22, Classic T-Shirt ,Apparel,1.0,462.19,0.0,C1143,West
+ORD00740,2025-12-30,Cotton Kurta,Apparel,1.0,948.54,0.1,C1114,North
+ORD00741,2025-02-16,Ceramic Mug,Home & Kitchen,3.0,264.22,0.0,C1249,North
+ORD00742,2025-07-29,USB-C Cable,Electronics,4.0,296.84,0.0,C1110,South
+ORD00743,2025-07-31,Notebook Set,Stationery,1.0,210.94,0.0,C1172,South
+ORD00744,2025-02-27,Classic T-Shirt,Apparel,1.0,511.78,0.0,C1010,North
+ORD00745,2025-02-10,Classic T-Shirt,Apparel,3.0,534.46,0.0,C1086,West
+ORD00746,2025-10-05,Sketchbook,Stationery,2.0,294.92,0.05,C1114,South
+ORD00747,2025-09-24,USB-C Cable,Electronics,3.0,294.21,0.05,C1062,South
+ORD00748,2025-03-03,Storage Basket,Home & Kitchen,3.0,644.76,0.0,C1120,South
+ORD00749,2025-11-17,Denim Jeans,Apparel,2.0,1284.01,0.0,C1019,West
+ORD00750,2025-05-07,Cotton Kurta,Apparel,2.0,956.71,0.05,C1016,South
+ORD00751,2025-03-12,Wireless Mouse,Electronics,2.0,754.08,0.0,C1047,South
+ORD00752,2025-07-18,Wireless Mouse,Electronics,1.0,778.11,0.1,C1063,East
+ORD00753,2025-04-05,Ceramic Mug,Home & Kitchen,1.0,265.58,0.0,C1160,West
+ORD00754,2025-03-28,Bluetooth Speaker,Electronics,2.0,1669.34,0.0,C1074,North
+ORD00755,2025-08-21,Cotton Kurta,Apparel,3.0,868.21,0.0,C1057,South
+ORD00756,2025-01-14,Wireless Mouse,Electronics,3.0,749.25,0.0,C1063,South
+ORD00757,2025-07-13,Ceramic Mug,Home & Kitchen,4.0,250.79,0.0,C1159,North
+ORD00758,2025-12-28,Desk Organizer,Stationery,2.0,479.31,0.0,C1041,South
+ORD00759,2025-06-10,USB-C Cable,Electronics,2.0,285.33,0.05,C1012,South
+ORD00760,2025-08-24,Classic T-Shirt,Apparel,1.0,459.56,0.0,C1123,North
+ORD00761,2025-06-07,Cotton Kurta,Apparel,2.0,871.47,0.15,C1231,East
+ORD00762,2025-12-01,Sketchbook,Stationery,5.0,262.79,0.05,C1188,South
+ORD00763,2025-10-25,Cotton Kurta,Apparel,5.0,853.18,0.0,C1112,West
+ORD00764,2025-06-24,Bluetooth Speaker,Electronics,1.0,1715.16,0.0,C1080,West
+ORD00765,2025-06-18,USB-C Cable,Electronics,1.0,303.53,0.0,C1102,South
+ORD00766,2025-07-31,USB-C Cable,Electronics,2.0,320.08,0.0,C1008,North
+ORD00767,2025-01-06,Storage Basket,Home & Kitchen,2.0,604.02,0.05,C1113,East
+ORD00768,2025-04-11,USB-C Cable,Electronics,1.0,294.32,0.0,C1244,West
+ORD00769,2025-06-01,Desk Organizer,Stationery,2.0,434.59,0.05,C1152,South
+ORD00770,2025-09-28,Notebook Set,Stationery,1.0,183.42,0.0,C1206,West
+ORD00771,2025-02-26,Ceramic Mug,Home & Kitchen,1.0,246.17,0.0,C1002,North
+ORD00772,2025-04-21,USB-C Cable,Electronics,1.0,312.18,0.0,C1093,West
+ORD00773,2025-09-24,Denim Jeans,Apparel,1.0,1392.44,0.0,C1172,North
+ORD00774,2025-08-19,Cotton Kurta,Apparel,2.0,954.55,0.0,C1235,East
+ORD00775,2025-10-10,Classic T-Shirt,Apparel,2.0,509.81,0.0,C1111,South
+ORD00776,2025-07-10,Wireless Mouse,Electronics,2.0,805.96,0.0,C1174,East
+ORD00777,2025-04-28,Steel Water Bottle,Home & Kitchen,1.0,354.41,0.05,C1097,South
+ORD00778,2025-09-13,Notebook Set,Stationery,1.0,205.21,0.0,C1215,West
+ORD00779,2025-04-28,Cotton Kurta,Apparel,-1.0,865.73,0.05,C1057,South
+ORD00780,2025-01-21,Storage Basket,Home & Kitchen,3.0,627.02,0.0,C1056,South
+ORD00781,2025-11-22,Notebook Set,Stationery,2.0,211.08,0.0,C1045,East
+ORD00782,2025-06-16,Denim Jeans,Apparel,1.0,1275.6,0.1,C1055,South
+ORD00783,2025-01-24,Bluetooth Speaker,Electronics,2.0,1920.01,0.0,C1204,South
+ORD00784,2025-08-29,Cotton Kurta,Apparel,3.0,895.32,0.0,C1041,North
+ORD00785,2025-08-28,USB-C Cable,Electronics,1.0,311.33,0.05,C1122,West
+ORD00786,2025-04-09,Wireless Mouse,Electronics,1.0,781.59,0.05,C1063,East
+ORD00787,2025-07-12,Notebook Set,Stationery,1.0,202.03,0.15,C1047,South
+ORD00788,2025-07-22,Wireless Mouse,Electronics,3.0,818.89,0.05,C1201,North
+ORD00789,2025-04-14,Cotton Kurta,Apparel,5.0,859.84,0.0,C1186,West
+ORD00790,2025-07-10,Steel Water Bottle,Home & Kitchen,2.0,329.94,0.0,C1061,South
+ORD00791,2025-07-28,Cotton Kurta,Apparel,1.0,880.37,0.0,C1061,North
+ORD00792,2025-08-14,Wireless Mouse,Electronics,1.0,775.61,0.1,C1156,East
+ORD00793,2025-05-30,Ceramic Mug,Home & Kitchen,1.0,261.43,0.1,C1103,West
+ORD00794,2025-10-08,Steel Water Bottle,Home & Kitchen,2.0,339.66,0.05,C1139,West
+ORD00795,2025-03-11,Classic T-Shirt,Apparel,1.0,527.34,0.05,C1123,East
+ORD00796,2025-05-10,Cotton Kurta,Apparel,1.0,894.85,0.0,C1142,North
+ORD00797,2025-08-13,USB-C Cable,Electronics,3.0,283.05,0.0,C1164,West
+ORD00798,2025-06-10,USB-C Cable,Electronics,2.0,294.35,0.0,C1154,North
+ORD00799,2025-07-14,USB-C Cable,Electronics,1.0,289.01,0.0,C1197,East
+ORD00800,2025-06-27,Ceramic Mug,Home & Kitchen,4.0,262.54,0.1,C1117,East
+ORD00801,2025-08-18,Wireless Mouse,Electronics,1.0,776.26,0.05,C1130,North
+ORD00802,2025-01-10,Notebook Set,Stationery,1.0,199.79,0.05,C1060,West
+ORD00803,2025-03-14,Denim Jeans,Apparel,3.0,1353.66,0.0,C1055,South
+ORD00804,2025-02-25,Steel Water Bottle,Home & Kitchen,1.0,376.86,0.0,C1203,North
+ORD00805,2025-10-31,Sketchbook,Stationery,1.0,281.61,0.0,C1135,South
+ORD00806,2025-10-26,Storage Basket,Home & Kitchen,2.0,556.4,0.0,C1182,South
+ORD00807,2025-02-28,Denim Jeans,Apparel,4.0,1301.69,0.05,C1011,South
+ORD00808,2025-05-11,Storage Basket,Home & Kitchen,1.0,584.02,0.0,C1236,West
+ORD00809,2025-07-04,Cotton Kurta,Apparel,2.0,848.59,0.0,C1229,North
+ORD00810,2025-09-19,Wireless Mouse,Electronics,1.0,741.67,0.1,C1021,West
+ORD00811,2025-05-31,Ceramic Mug,Home & Kitchen,4.0,240.65,0.0,C1005,South
+ORD00812,2025-10-04,Steel Water Bottle,Home & Kitchen,5.0,359.58,0.05,C1152,West
+ORD00813,2025-10-30,Wireless Mouse,Electronics,3.0,840.61,0.0,C1154,North
+ORD00814,2025-10-28,Storage Basket,Home & Kitchen,4.0,609.75,0.1,C1085,North
+ORD00815,2025-12-08,Desk Organizer,Stationery,2.0,416.94,0.0,C1175,South
+ORD00816,2025-08-16,Ceramic Mug,Home & Kitchen,2.0,251.09,0.0,C1162,North
+ORD00817,2025-06-10,Desk Organizer,Stationery,5.0,434.61,0.0,C1165,South
+ORD00818,2025-03-22,Notebook Set,Stationery,2.0,184.84,0.0,C1215,West
+ORD00819,2025-03-24,Wireless Mouse,Electronics,2.0,775.86,0.1,C1065,West
+ORD00820,2025-05-01,Desk Organizer,Stationery,,,0.0,C1013,North
+ORD00821,2025-08-29,Ceramic Mug,Home & Kitchen,1.0,231.58,0.0,C1106,East
+ORD00822,2025-04-29,Ceramic Mug,Home & Kitchen,1.0,268.57,0.1,C1126,South
+ORD00823,2025-02-15,USB-C Cable,Electronics,2.0,292.61,0.05,C1063,South
+ORD00824,2025-02-15,USB-C Cable,Electronics,2.0,315.13,0.0,C1186,North
+ORD00825,2025-03-05,Denim Jeans,Apparel,1.0,1299.88,0.0,C1112,South
+ORD00826,2025-08-29,Classic T-Shirt,Apparel,2.0,463.41,0.1,C1083,South
+ORD00827,2025-01-09,Desk Organizer,Stationery,2.0,456.79,0.05,C1186,East
+ORD00828,2025-02-14,Desk Organizer,Stationery,5.0,444.91,0.0,C1188,East
+ORD00829,2025-10-02,Cotton Kurta,Apparel,2.0,851.55,0.0,C1115,North
+ORD00830,2025-05-02,Classic T-Shirt,Apparel,1.0,495.1,0.0,C1233,West
+ORD00831,2025-10-06,Ceramic Mug,Home & Kitchen,1.0,230.59,0.0,C1228,North
+ORD00832,2025-06-30,Wireless Mouse,Electronics,1.0,748.24,0.0,C1026,South
+ORD00833,2025-12-08, Classic T-Shirt ,Apparel,2.0,522.97,0.1,C1052,South
+ORD00834,2025-05-29,USB-C Cable,Electronics,2.0,283.89,0.0,C1177,East
+ORD00835,2025-06-09,Denim Jeans,Apparel,1.0,1258.67,0.0,C1247,East
+ORD00836,2025-06-18,Storage Basket,Home & Kitchen,1.0,560.95,0.1,C1024,North
+ORD00837,2025-06-24,Cotton Kurta,Apparel,3.0,935.21,0.1,C1250,South
+ORD00838,2025-08-08,Ceramic Mug,Home & Kitchen,1.0,255.01,0.05,C1101,West
+ORD00839,2025-02-26,Steel Water Bottle,Home & Kitchen,1.0,339.39,0.1,C1033,South
+ORD00840,2025-12-01,Sketchbook,Stationery,3.0,295.06,0.0,C1247,East
+ORD00841,2025-10-04,USB-C Cable,Electronics,1.0,320.89,0.0,C1243,South
+ORD00842,2025-12-26,Denim Jeans,Apparel,1.0,1310.39,0.0,C1126,South
+ORD00843,2025-08-11,Ceramic Mug,Home & Kitchen,3.0,255.7,0.1,C1248,West
+ORD00844,2025-08-01,Cotton Kurta,Apparel,1.0,840.39,0.05,C1019,West
+ORD00845,2025-08-12,Steel Water Bottle,Home & Kitchen,1.0,356.38,0.15,C1147,North
+ORD00846,2025-04-18,Cotton Kurta,Apparel,1.0,863.17,0.0,C1072,South
+ORD00847,2025-08-21,Steel Water Bottle,Home & Kitchen,1.0,372.34,0.0,C1191,North
+ORD00848,2025-04-30,Wireless Mouse,Electronics,3.0,740.34,0.0,C1134,East
+ORD00849,2025-02-23,Desk Organizer,Stationery,1.0,437.78,0.1,C1066,South
+ORD00850,2025-09-29,Denim Jeans,Apparel,1.0,1356.28,0.05,C1181,West
+ORD00851,2025-09-01,Cotton Kurta,Apparel,1.0,833.17,0.1,C1178,South
+ORD00852,2025-08-01, Classic T-Shirt ,Apparel,2.0,518.86,0.05,C1191,West
+ORD00853,2025-03-16,Bluetooth Speaker,Electronics,2.0,1842.45,0.1,C1074,East
+ORD00854,2025-12-05,Ceramic Mug,Home & Kitchen,1.0,254.76,0.0,C1213,West
+ORD00855,2025-02-21,Desk Organizer,Stationery,4.0,443.82,0.1,C1011,South
+ORD00856,2025-10-30,Denim Jeans,Apparel,7.0,1330.22,0.05,C1150,South
+ORD00857,2025-09-26,Cotton Kurta,Apparel,3.0,858.6,0.05,C1181,West
+ORD00858,2025-12-14,Cotton Kurta,Apparel,4.0,854.52,0.0,C1073,East
+ORD00859,2025-12-06,Steel Water Bottle,Home & Kitchen,5.0,345.3,0.0,C1078,South
+ORD00860,2025-04-24,USB-C Cable,Electronics,1.0,307.7,0.0,C1157,North
+ORD00861,2025-05-21,Wireless Mouse,Electronics,2.0,780.42,0.0,C1189,West
+ORD00862,2025-03-24,Cotton Kurta,Apparel,3.0,874.72,0.0,C1176,South
+ORD00863,2025-09-23,Classic T-Shirt,Apparel,4.0,470.88,0.0,C1246,South
+ORD00864,2025-05-21,Bluetooth Speaker,Electronics,1.0,1923.48,0.05,C1231,West
+ORD00865,2025-12-13,Desk Organizer,Stationery,2.0,444.9,0.05,C1080,West
+ORD00866,2025-06-05,Classic T-Shirt,Apparel,3.0,475.38,0.1,C1191,North
+ORD00867,2025-02-26,Notebook Set,Stationery,3.0,206.6,0.15,C1119,West
+ORD00868,2025-04-09,Steel Water Bottle,Home & Kitchen,2.0,345.96,0.0,C1010,West
+ORD00869,2025-07-29,Denim Jeans,Apparel,4.0,1305.32,0.0,C1005,North
+ORD00870,2025-08-24,Classic T-Shirt,Apparel,2.0,467.92,0.0,C1188,North
+ORD00871,2025-09-28,Notebook Set,Stationery,3.0,187.58,0.0,C1168,East
+ORD00872,2025-02-05,Classic T-Shirt,Apparel,4.0,475.67,0.05,C1015,North
+ORD00873,2025-02-16,Ceramic Mug,Home & Kitchen,2.0,268.87,0.0,C1023,South
+ORD00874,2025-01-01,Steel Water Bottle,Home & Kitchen,3.0,372.04,0.1,C1205,South
+ORD00875,2025-02-22, Bluetooth Speaker ,Electronics,1.0,1845.99,0.0,C1210,West
+ORD00876,2025-04-29,Cotton Kurta,Apparel,4.0,871.13,0.0,C1139,North
+ORD00877,2025-04-04, Storage Basket ,Home & Kitchen,-1.0,611.08,0.1,C1133,North
+ORD00878,2025-05-13,Ceramic Mug,Home & Kitchen,3.0,252.64,0.0,C1167,South
+ORD00879,2025-07-16, Steel Water Bottle ,Home & Kitchen,1.0,375.87,0.0,C1121,North
+ORD00880,2025-03-12,Wireless Mouse,Electronics,1.0,766.98,0.0,C1113,South
+ORD00881,2025-09-03,Desk Organizer,Stationery,1.0,427.32,0.15,C1221,South
+ORD00882,2025-10-23,Notebook Set,Stationery,3.0,207.03,0.0,C1210,East
+ORD00883,2025-06-25,Classic T-Shirt,Apparel,,502.96,0.05,C1093,East
+ORD00884,2025-01-15,Cotton Kurta,Apparel,5.0,916.5,0.05,C1138,South
+ORD00885,2025-11-21,Classic T-Shirt,Apparel,2.0,511.94,0.1,C1218,South
+ORD00886,2025-04-21,USB-C Cable,Electronics,1.0,319.54,0.0,C1158,North
+ORD00887,2025-02-06,Desk Organizer,Stationery,1.0,460.66,0.0,C1185,West
+ORD00888,2025-03-12,Denim Jeans,Apparel,1.0,1299.26,0.1,C1213,North
+ORD00889,2025-04-29,Sketchbook,Stationery,2.0,294.65,0.1,C1118,South
+ORD00890,2025-09-12,Steel Water Bottle,Home & Kitchen,2.0,361.1,0.15,C1052,South
+ORD00891,2025-07-27,Ceramic Mug,Home & Kitchen,2.0,246.08,0.1,C1070,North
+ORD00892,2025-08-02,Wireless Mouse,Electronics,2.0,852.09,0.0,C1046,South
+ORD00893,2025-07-29,Storage Basket,Home & Kitchen,1.0,637.08,0.1,C1134,East
+ORD00894,2025-07-20,Classic T-Shirt,Apparel,2.0,493.34,0.05,C1152,East
+ORD00895,2025-01-18,Cotton Kurta,Apparel,2.0,917.29,0.0,C1038,West
+ORD00896,2025-06-10,Wireless Mouse,Electronics,1.0,791.7,0.0,C1137,East
+ORD00897,2025-08-23,Classic T-Shirt,Apparel,2.0,517.75,0.1,C1021,South
+ORD00898,2025-01-22,Ceramic Mug,Home & Kitchen,1.0,245.84,0.0,C1215,East
+ORD00899,2025-02-11,Cotton Kurta,Apparel,2.0,834.0,0.05,C1043,West
+ORD00900,2025-05-23,Bluetooth Speaker,Electronics,1.0,1834.32,0.0,C1193,North
+ORD00901,2025-07-31,Ceramic Mug,Home & Kitchen,1.0,264.27,0.0,C1184,South
+ORD00902,2025-08-04,Cotton Kurta,Apparel,1.0,958.24,0.1,C1040,West
+ORD00903,2025-02-18,Ceramic Mug,Home & Kitchen,1.0,250.13,0.0,C1012,East
+ORD00904,2025-03-18,Cotton Kurta,Apparel,3.0,921.61,0.1,C1243,West
+ORD00905,2025-08-13,Steel Water Bottle,Home & Kitchen,2.0,349.89,0.1,C1146,East
+ORD00906,2025-03-02, Bluetooth Speaker ,Electronics,1.0,1904.8,0.0,C1216,East
+ORD00907,2025-03-05,Ceramic Mug,Home & Kitchen,1.0,231.86,0.0,C1241,West
+ORD00908,2025-10-08,Storage Basket,Home & Kitchen,1.0,633.08,0.05,C1002,North
+ORD00909,2025-04-17,Desk Organizer,Stationery,3.0,416.94,0.1,C1012,North
+ORD00910,2025-02-05,Bluetooth Speaker,Electronics,2.0,1774.4,0.1,C1112,North
+ORD00911,2025-11-03,Wireless Mouse,Electronics,3.0,860.75,0.05,C1161,North
+ORD00912,2025-02-08,Notebook Set,Stationery,5.0,186.21,0.0,C1184,North
+ORD00913,2025-10-06,Classic T-Shirt,Apparel,3.0,529.46,0.05,C1250,West
+ORD00914,2025-04-28,Cotton Kurta,Apparel,1.0,954.58,0.05,C1192,North
+ORD00915,2025-11-23,Sketchbook,Stationery,2.0,297.48,0.0,C1060,East
+ORD00916,2025-09-20,Bluetooth Speaker,Electronics,3.0,1850.83,0.0,C1001,West
+ORD00917,2025-03-08,Sketchbook,Stationery,4.0,258.32,0.0,C1074,West
+ORD00918,2025-10-05,Classic T-Shirt,Apparel,,478.22,0.0,C1124,North
+ORD00919,2025-04-01,Bluetooth Speaker,Electronics,4.0,1790.36,0.0,C1228,South
+ORD00920,2025-11-02,Steel Water Bottle,Home & Kitchen,2.0,369.99,0.0,C1155,South
+ORD00921,2025-04-28,Classic T-Shirt,Apparel,2.0,502.91,0.05,C1056,North
+ORD00922,2025-05-20,Sketchbook,Stationery,1.0,295.34,0.0,C1249,West
+ORD00923,2025-10-24,Notebook Set,Stationery,3.0,209.19,0.05,C1220,North
+ORD00924,2025-03-04,Bluetooth Speaker,Electronics,2.0,1804.58,0.1,C1029,East
+ORD00925,2025-07-28,Ceramic Mug,Home & Kitchen,2.0,259.37,0.05,C1100,South
+ORD00926,2025-05-04,USB-C Cable,Electronics,3.0,278.07,0.1,C1182,South
+ORD00927,2025-10-12,USB-C Cable,Electronics,2.0,313.06,0.0,C1019,North
+ORD00928,2025-05-02,Ceramic Mug,Home & Kitchen,2.0,262.77,0.05,C1088,North
+ORD00929,2025-06-15,Denim Jeans,Apparel,2.0,1246.66,0.0,C1092,West
+ORD00930,2025-05-23,Cotton Kurta,Apparel,1.0,921.06,0.0,C1168,North
+ORD00931,2025-11-28,Storage Basket,Home & Kitchen,3.0,587.21,0.0,C1154,East
+ORD00932,2025-04-09,Ceramic Mug,Home & Kitchen,3.0,266.58,0.0,C1177,West
+ORD00933,2025-02-06,Sketchbook,Stationery,3.0,257.74,0.0,C1107,West
+ORD00934,2025-01-16,Wireless Mouse,Electronics,2.0,805.96,0.0,C1118,North
+ORD00935,2025-08-08,USB-C Cable,Electronics,2.0,307.28,0.0,C1093,East
+ORD00936,2025-10-29,Denim Jeans,Apparel,1.0,1255.23,0.0,C1119,North
+ORD00937,2025-02-26,Ceramic Mug,Home & Kitchen,2.0,236.11,0.05,C1246,South
+ORD00938,2025-04-13,Cotton Kurta,Apparel,3.0,965.14,0.0,C1096,South
+ORD00939,2025-01-16,Denim Jeans,Apparel,3.0,1212.72,0.15,C1213,South
+ORD00940,2025-08-03,Notebook Set,Stationery,1.0,207.82,0.0,C1036,South
+ORD00941,2025-11-03,Classic T-Shirt,Apparel,5.0,522.78,0.0,C1035,West
+ORD00942,2025-07-23,Wireless Mouse,Electronics,1.0,752.17,0.15,C1159,North
+ORD00943,2025-07-21,Cotton Kurta,Apparel,1.0,912.61,0.1,C1133,West
+ORD00944,2025-10-18,Cotton Kurta,Apparel,3.0,934.51,0.0,C1078,North
+ORD00945,2025-07-24,Notebook Set,Stationery,3.0,211.02,0.0,C1029,South
+ORD00946,2025-12-29,Steel Water Bottle,Home & Kitchen,2.0,334.47,0.0,C1139,East
+ORD00947,2025-12-19,USB-C Cable,Electronics,4.0,314.12,0.0,C1118,North
+ORD00948,2025-04-07,USB-C Cable,Electronics,1.0,306.27,0.0,C1060,South
+ORD00949,2025-06-16,Classic T-Shirt,Apparel,1.0,510.26,0.0,C1022,East
+ORD00950,2025-01-28,Steel Water Bottle,Home & Kitchen,1.0,329.77,0.0,C1040,East
+ORD00951,2025-04-24,Cotton Kurta,Apparel,3.0,868.29,0.05,C1152,South
+ORD00952,2025-10-19,Classic T-Shirt,Apparel,2.0,536.44,0.0,C1170,South
+ORD00953,2025-10-03,Denim Jeans,Apparel,2.0,1307.15,0.1,C1154,East
+ORD00954,2025-05-03,Steel Water Bottle,Home & Kitchen,1.0,342.19,0.15,C1239,North
+ORD00955,2025-06-26,USB-C Cable,Electronics,4.0,318.52,0.05,C1023,East
+ORD00956,2025-05-18,Notebook Set,Stationery,3.0,209.15,0.0,C1019,East
+ORD00957,2025-02-13,Denim Jeans,Apparel,1.0,1298.72,0.05,C1246,West
+ORD00958,not-a-date,Notebook Set,Stationery,3.0,183.4,0.05,C1136,North
+ORD00959,2025-02-13,Denim Jeans,Apparel,3.0,1349.68,0.1,C1116,West
+ORD00960,2025-12-24,Denim Jeans,Apparel,3.0,1376.13,0.0,C1182,West
+ORD00961,2025-02-12,Denim Jeans,Apparel,1.0,1289.85,0.0,C1070,West
+ORD00962,2025-01-08,Notebook Set,Stationery,4.0,192.14,0.0,C1206,South
+ORD00963,2025-06-05,Classic T-Shirt,Apparel,3.0,538.65,0.0,C1117,South
+ORD00964,2025-05-22,Classic T-Shirt,Apparel,1.0,499.17,0.0,C1038,West
+ORD00965,2025-07-18,Cotton Kurta,Apparel,1.0,832.58,0.0,C1165,West
+ORD00966,2025-07-28,Desk Organizer,Stationery,2.0,442.04,0.0,C1232,South
+ORD00967,2025-05-27,Notebook Set,Stationery,2.0,190.28,0.0,C1148,West
+ORD00968,2025-02-19,Classic T-Shirt,Apparel,1.0,473.69,0.1,C1031,East
+ORD00969,2025-07-11,Steel Water Bottle,Home & Kitchen,1.0,368.89,0.0,C1044,East
+ORD00970,2025-01-13,Classic T-Shirt,Apparel,1.0,522.98,0.0,C1028,South
+ORD00971,2025-03-30,USB-C Cable,Electronics,1.0,280.65,0.05,C1034,West
+ORD00972,2025-08-10,Steel Water Bottle,Home & Kitchen,1.0,351.1,0.05,C1096,East
+ORD00973,2025-02-20,Denim Jeans,Apparel,3.0,1368.66,0.0,C1221,West
+ORD00974,2025-12-19,Denim Jeans,Apparel,1.0,1212.71,0.0,C1120,West
+ORD00975,2025-04-06,Ceramic Mug,Home & Kitchen,3.0,244.49,0.0,C1134,North
+ORD00976,2025-11-12,Classic T-Shirt,Apparel,1.0,486.36,0.0,C1062,South
+ORD00977,2025-04-27,Classic T-Shirt,Apparel,2.0,468.39,0.0,C1084,West
+ORD00978,2025-08-23,Cotton Kurta,Apparel,1.0,862.6,0.15,C1164,North
+ORD00979,2025-03-11,Ceramic Mug,Home & Kitchen,1.0,235.32,0.0,C1117,East
+ORD00980,2025-08-22,USB-C Cable,Electronics,3.0,290.69,0.1,C1205,West
+ORD00981,2025-09-25,USB-C Cable,Electronics,1.0,288.62,0.0,C1053,South
+ORD00982,2025-02-05,Classic T-Shirt,Apparel,1.0,533.45,0.05,C1002,South
+ORD00983,2025-07-25,Wireless Mouse,Electronics,3.0,818.48,0.05,C1184,South
+ORD00984,2025-06-17,USB-C Cable,Electronics,5.0,295.4,0.0,C1197,South
+ORD00985,2025-06-06,Sketchbook,Stationery,2.0,272.71,0.0,C1249,North
+ORD00986,2025-06-07,Storage Basket,Home & Kitchen,3.0,614.39,0.0,C1023,East
+ORD00987,2025-09-23,Cotton Kurta,Apparel,2.0,914.96,0.1,C1054,North
+ORD00988,2025-02-19,Ceramic Mug,Home & Kitchen,1.0,245.64,0.1,C1152,South
+ORD00989,2025-02-24,Sketchbook,Stationery,2.0,278.93,0.05,C1124,North
+ORD00990,2025-03-09,USB-C Cable,Electronics,1.0,288.95,0.0,C1037,North
+ORD00991,2025-11-05,Bluetooth Speaker,Electronics,1.0,1726.37,0.0,C1167,East
+ORD00992,2025-07-14,Denim Jeans,Apparel,1.0,1287.5,0.0,C1069,North
+ORD00993,2025-07-26,Storage Basket,Home & Kitchen,1.0,597.61,0.0,C1057,South
+ORD00994,2025-06-15,Desk Organizer,Stationery,2.0,471.88,0.0,C1110,North
+ORD00995,2025-05-09,Ceramic Mug,Home & Kitchen,2.0,262.47,0.05,C1242,North
+ORD00996,2025-08-22,Classic T-Shirt,Apparel,-1.0,472.42,0.0,C1064,West
+ORD00997,2025-12-09,Wireless Mouse,Electronics,1.0,761.25,0.0,C1079,West
+ORD00998,2025-05-11,Desk Organizer,Stationery,2.0,421.04,0.0,C1179,West
+ORD00999,2025-03-31,Denim Jeans,Apparel,1.0,1341.49,0.0,C1093,North
+ORD01000,2025-11-03,Notebook Set,Stationery,3.0,190.13,0.05,C1116,North
+ORD01001,2025-01-26,USB-C Cable,Electronics,1.0,306.48,0.05,C1009,North
+ORD01002,2025-05-23,Cotton Kurta,Apparel,1.0,839.54,0.1,C1193,East
+ORD01003,2025-10-12,Sketchbook,Stationery,1.0,288.81,0.1,C1127,West
+ORD01004,2025-12-13,Denim Jeans,Apparel,3.0,1329.01,0.0,C1248,West
+ORD01005,2025-10-26,Storage Basket,Home & Kitchen,3.0,620.33,0.0,C1020,West
+ORD01006,2025-09-10,Steel Water Bottle,Home & Kitchen,2.0,329.83,0.1,C1011,North
+ORD01007,2025-12-14,USB-C Cable,Electronics,2.0,308.88,0.0,C1161,North
+ORD01008,2025-08-08,Steel Water Bottle,Home & Kitchen,3.0,327.22,0.05,C1094,West
+ORD01009,2025-03-09,Wireless Mouse,Electronics,1.0,767.02,0.0,C1021,South
+ORD01010,2025-12-16,Ceramic Mug,Home & Kitchen,2.0,246.11,0.0,C1116,East
+ORD01011,2025-02-25,Notebook Set,Stationery,4.0,211.12,0.0,C1103,East
+ORD01012,2025-04-14,Sketchbook,Stationery,2.0,278.77,0.05,C1228,West
+ORD01013,2025-10-09,Bluetooth Speaker,Electronics,3.0,1749.54,0.1,C1125,South
+ORD01014,2025-11-01,Steel Water Bottle,Home & Kitchen,2.0,328.29,0.1,C1119,South
+ORD01015,2025-08-17,Cotton Kurta,Apparel,2.0,928.06,0.1,C1109,North
+ORD01016,2025-04-24,USB-C Cable,Electronics,1.0,284.86,0.0,C1244,West
+ORD01017,2025-04-03,Ceramic Mug,Home & Kitchen,2.0,263.82,0.05,C1073,West
+ORD01018,2025-08-12,Notebook Set,Stationery,1.0,187.17,0.15,C1044,North
+ORD01019,2025-06-02,Wireless Mouse,Electronics,1.0,752.13,0.05,C1035,West
+ORD01020,2025-06-17,Denim Jeans,Apparel,2.0,1364.19,0.0,C1199,North
+ORD01021,2025-02-08,Storage Basket,Home & Kitchen,1.0,620.49,0.15,C1001,North
+ORD01022,2025-06-16,Cotton Kurta,Apparel,1.0,936.19,0.0,C1163,West
+ORD01023,2025-07-09,Denim Jeans,Apparel,1.0,1237.25,0.1,C1134,East
+ORD01024,2025-02-13,Storage Basket,Home & Kitchen,2.0,626.11,0.0,C1086,North
+ORD01025,2025-04-14,Steel Water Bottle,Home & Kitchen,1.0,328.7,0.0,C1029,South
+ORD01026,2025-04-26,Desk Organizer,Stationery,2.0,440.99,0.0,C1028,South
+ORD01027,2025-11-15,Wireless Mouse,Electronics,2.0,842.21,0.1,C1214,North
+ORD01028,2025-01-07,USB-C Cable,Electronics,1.0,307.79,0.1,C1039,South
+ORD01029,2025-01-20,Storage Basket,Home & Kitchen,1.0,615.03,0.05,C1072,South
+ORD01030,2025-02-06,Storage Basket,Home & Kitchen,2.0,572.64,0.05,C1181,East
+ORD01031,2025-09-14,Wireless Mouse,Electronics,3.0,766.98,0.05,C1067,West
+ORD01032,2025-10-13,Ceramic Mug,Home & Kitchen,2.0,251.73,0.0,C1217,North
+ORD01033,2025-11-27,Ceramic Mug,Home & Kitchen,3.0,259.25,0.0,C1248,West
+ORD01034,2025-11-14,Sketchbook,Stationery,4.0,257.6,0.15,C1165,South
+ORD01035,2025-08-27,Notebook Set,Stationery,1.0,210.08,0.0,C1167,South
+ORD01036,2025-04-03,Steel Water Bottle,Home & Kitchen,2.0,372.16,0.0,C1119,East
+ORD01037,2025-07-14,Bluetooth Speaker,Electronics,1.0,1926.45,0.0,C1220,East
+ORD01038,2025-11-21,Bluetooth Speaker,Electronics,3.0,1871.57,0.0,C1004,West
+ORD01039,2025-06-21,USB-C Cable,Electronics,1.0,289.62,0.15,C1061,North
+ORD01040,2025-06-13,Cotton Kurta,Apparel,1.0,970.85,0.0,C1068,South
+ORD01041,2025-01-10,Classic T-Shirt,Apparel,1.0,538.31,0.05,C1193,South
+ORD01042,2025-01-19,Denim Jeans,Apparel,1.0,1317.1,0.0,C1232,West
+ORD01043,2025-09-29,Cotton Kurta,Apparel,4.0,901.59,0.0,C1018,North
+ORD01044,2025-11-05,Wireless Mouse,Electronics,3.0,765.8,0.1,C1216,North
+ORD01045,2025-10-21,Steel Water Bottle,Home & Kitchen,4.0,369.96,0.0,C1033,South
+ORD01046,2025-06-15,Classic T-Shirt,Apparel,4.0,494.06,0.05,C1180,South
+ORD01047,2025-07-29,Wireless Mouse,Electronics,3.0,824.48,0.0,C1225,East
+ORD01048,2025-08-24, Ceramic Mug ,Home & Kitchen,2.0,246.75,0.1,C1104,West
+ORD01049,2025-12-20,Notebook Set,Stationery,2.0,188.75,0.0,C1186,North
+ORD01050,2025-04-04,Sketchbook,Stationery,3.0,279.61,0.0,C1187,South
+ORD01051,2025-09-10,Notebook Set,Stationery,5.0,194.19,0.0,C1225,North
+ORD01052,2025-04-08,Steel Water Bottle,Home & Kitchen,1.0,327.47,0.0,C1095,West
+ORD01053,2025-02-28,Classic T-Shirt,Apparel,3.0,476.73,0.0,C1077,
+ORD01054,2025-01-04,Cotton Kurta,Apparel,2.0,843.13,0.15,C1181,South
+ORD01055,2025-02-15,Notebook Set,Stationery,1.0,191.58,0.1,C1085,North
+ORD01056,2025-04-10,Ceramic Mug,Home & Kitchen,1.0,265.33,0.05,C1131,North
+ORD01057,2025-08-01,USB-C Cable,Electronics,2.0,277.97,0.1,C1163,West
+ORD01058,2025-07-31,Cotton Kurta,Apparel,1.0,928.12,0.1,C1014,North
+ORD01059,2025-05-21,Notebook Set,Stationery,1.0,193.87,0.05,C1024,North
+ORD01060,2025-02-06,Classic T-Shirt,Apparel,4.0,483.94,0.05,C1146,East
+ORD01061,2025-12-28,Storage Basket,Home & Kitchen,2.0,608.56,0.15,C1136,South
+ORD01062,2025-10-15,Steel Water Bottle,Home & Kitchen,5.0,335.32,0.05,C1213,West
+ORD01063,2025-12-14,Denim Jeans,Apparel,3.0,1261.73,0.0,C1120,South
+ORD01064,2025-08-23,Denim Jeans,Apparel,1.0,1380.41,0.0,C1171,South
+ORD01065,2025-08-03,Desk Organizer,Stationery,2.0,472.31,0.0,C1166,South
+ORD01066,2025-01-10,Desk Organizer,Stationery,2.0,447.24,0.0,C1236,North
+ORD01067,2025-03-12,Notebook Set,Stationery,1.0,191.98,0.0,C1224,North
+ORD01068,2025-07-01,Wireless Mouse,Electronics,1.0,814.73,0.15,C1181,North
+ORD01069,2025-05-05,Storage Basket,Home & Kitchen,1.0,602.03,0.05,C1115,North
+ORD01070,2025-02-25,Notebook Set,Stationery,1.0,203.15,0.05,C1039,West
+ORD01071,2025-08-17,Notebook Set,Stationery,2.0,197.39,0.0,C1185,South
+ORD01072,2025-05-24,Denim Jeans,Apparel,1.0,1276.02,0.0,C1105,South
+ORD01073,2025-02-22,Wireless Mouse,Electronics,3.0,804.46,0.1,C1188,West
+ORD01074,2025-06-18, Sketchbook ,Stationery,1.0,283.32,0.1,C1025,South
+ORD01075,2025-04-16,Steel Water Bottle,Home & Kitchen,1.0,321.55,0.0,C1150,North
+ORD01076,2025-05-14,Storage Basket,Home & Kitchen,1.0,617.39,0.0,C1153,South
+ORD01077,2025-01-11,Desk Organizer,Stationery,1.0,418.93,0.1,C1195,West
+ORD01078,2025-04-14,Cotton Kurta,Apparel,1.0,912.1,0.1,C1104,East
+ORD01079,2025-08-29,USB-C Cable,Electronics,3.0,297.84,0.1,C1080,South
+ORD01080,2025-01-15,Wireless Mouse,Electronics,1.0,859.99,0.0,C1088,South
+ORD01081,2025-10-31,Storage Basket,Home & Kitchen,1.0,587.56,0.0,C1099,East
+ORD01082,2025-04-18,USB-C Cable,Electronics,2.0,296.75,0.05,C1016,West
+ORD01083,2025-03-30,Steel Water Bottle,Home & Kitchen,1.0,360.97,0.05,C1212,East
+ORD01084,2025-03-14,Bluetooth Speaker,Electronics,1.0,1815.04,0.0,C1139,South
+ORD01085,2025-04-27,Storage Basket,Home & Kitchen,1.0,635.9,0.1,C1166,South
+ORD01086,2025-02-02,Ceramic Mug,Home & Kitchen,3.0,235.77,0.0,C1238,South
+ORD01087,2025-02-07,Storage Basket,Home & Kitchen,1.0,611.86,0.0,C1027,North
+ORD01088,2025-01-10,USB-C Cable,Electronics,4.0,298.52,0.0,C1243,East
+ORD01089,2025-05-16,Classic T-Shirt,Apparel,3.0,508.58,0.05,C1140,South
+ORD01090,2025-08-01,Cotton Kurta,Apparel,5.0,884.72,0.0,C1155,North
+ORD01091,2025-03-27,Sketchbook,Stationery,3.0,288.02,0.15,C1160,West
+ORD01092,2025-02-21,Wireless Mouse,Electronics,1.0,763.42,0.0,C1085,North
+ORD01093,2025-05-23,Sketchbook,Stationery,1.0,288.34,0.0,C1239,North
+ORD01094,2025-01-10,Cotton Kurta,Apparel,1.0,858.01,0.0,C1085,North
+ORD01095,2025-10-31,Classic T-Shirt,Apparel,1.0,487.38,0.0,C1227,North
+ORD01096,2025-06-24,Wireless Mouse,Electronics,2.0,807.6,0.0,C1163,South
+ORD01097,2025-02-21,Storage Basket,Home & Kitchen,1.0,582.54,0.05,C1057,North
+ORD01098,2025-12-20,USB-C Cable,Electronics,1.0,319.92,0.15,C1016,South
+ORD01099,2025-09-14,Wireless Mouse,Electronics,2.0,814.64,0.0,C1067,North
+ORD01100,2025-10-04,Denim Jeans,Apparel,1.0,1197.96,0.05,C1053,West
+ORD01101,2025-05-30,Storage Basket,Home & Kitchen,2.0,581.48,0.0,C1091,West
+ORD01102,2025-04-08,Notebook Set,Stationery,5.0,194.87,0.05,C1187,East
+ORD01103,2025-07-29,USB-C Cable,Electronics,2.0,317.45,0.0,C1167,East
+ORD01104,2025-02-02,Wireless Mouse,Electronics,2.0,836.2,0.0,C1071,South
+ORD01105,2025-07-20,Denim Jeans,Apparel,1.0,1384.66,0.0,C1084,West
+ORD01106,2025-09-13,USB-C Cable,Electronics,2.0,308.42,0.05,C1061,East
+ORD01107,2025-01-08,Wireless Mouse,Electronics,1.0,769.7,0.05,C1227,South
+ORD01108,2025-07-05,Wireless Mouse,Electronics,1.0,834.01,0.05,C1138,East
+ORD01109,2025-12-23,Desk Organizer,Stationery,2.0,421.64,0.05,C1179,East
+ORD01110,2025-01-12,Cotton Kurta,Apparel,2.0,879.55,0.1,C1120,South
+ORD01111,2025-05-02,Wireless Mouse,Electronics,1.0,747.34,0.05,C1044,South
+ORD01112,2025-11-07,Wireless Mouse,Electronics,2.0,781.3,0.0,C1044,West
+ORD01113,2025-04-18,Classic T-Shirt,Apparel,3.0,474.79,0.1,C1141,East
+ORD01114,2025-08-17,Sketchbook,Stationery,1.0,290.89,0.0,C1243,East
+ORD01115,2025-03-12,Classic T-Shirt,Apparel,1.0,463.69,0.0,C1150,South
+ORD01116,2025-10-06,Storage Basket,Home & Kitchen,3.0,621.52,0.0,C1227,West
+ORD01117,2025-07-09,Bluetooth Speaker,Electronics,4.0,1827.4,0.0,C1186,West
+ORD01118,2025-10-01,Notebook Set,Stationery,2.0,199.9,0.0,C1230,North
+ORD01119,2025-12-23,USB-C Cable,Electronics,1.0,293.33,0.0,C1131,East
+ORD01120,2025-01-10,Sketchbook,Stationery,5.0,271.74,0.0,C1149,South
+ORD01121,2025-02-06,Wireless Mouse,Electronics,1.0,813.33,0.1,C1203,North
+ORD01122,2025-01-01,Cotton Kurta,Apparel,1.0,850.97,0.05,C1045,West
+ORD01123,2025-02-07,Desk Organizer,Stationery,4.0,460.51,0.0,C1102,North
+ORD01124,2025-02-01,Sketchbook,Stationery,4.0,273.73,0.0,C1105,South
+ORD01125,2025-07-06,Sketchbook,Stationery,1.0,273.16,0.0,C1010,South
+ORD01126,2025-02-15,Notebook Set,Stationery,1.0,201.68,0.0,C1111,North
+ORD01127,2025-03-04,Cotton Kurta,Apparel,1.0,881.27,0.1,C1221,West
+ORD01128,2025-09-20,Ceramic Mug,Home & Kitchen,2.0,255.59,0.0,C1154,South
+ORD01129,2025-04-21,Bluetooth Speaker,Electronics,1.0,1720.63,0.15,C1100,West
+ORD01130,2025-02-12,Notebook Set,Stationery,3.0,208.39,0.0,C1235,West
+ORD01131,2025-08-19,Bluetooth Speaker,Electronics,1.0,1707.21,0.0,C1097,East
+ORD01132,2025-06-25, Notebook Set ,Stationery,3.0,204.61,0.0,C1155,South
+ORD01133,2025-06-24,Cotton Kurta,Apparel,1.0,875.91,0.0,C1208,North
+ORD01134,2025-07-28,Cotton Kurta,Apparel,1.0,919.34,0.05,C1040,North
+ORD01135,2025-05-04,Sketchbook,Stationery,2.0,287.0,0.0,C1195,West
+ORD01136,2025-10-22,Steel Water Bottle,Home & Kitchen,3.0,343.37,0.0,C1163,West
+ORD01137,2025-07-30,Cotton Kurta,Apparel,5.0,,0.0,C1218,West
+ORD01138,2025-06-08,Ceramic Mug,Home & Kitchen,2.0,234.28,0.0,C1077,South
+ORD01139,2025-06-18, Denim Jeans ,Apparel,1.0,1342.93,0.0,C1170,South
+ORD01140,2025-05-03,Bluetooth Speaker,Electronics,1.0,1900.32,0.05,C1179,South
+ORD01141,2025-05-08,USB-C Cable,Electronics,2.0,301.8,0.05,C1191,West
+ORD01142,2025-11-03,Notebook Set,Stationery,2.0,213.47,0.0,C1145,North
+ORD01143,2025-12-29,Ceramic Mug,Home & Kitchen,2.0,266.2,0.0,C1147,East
+ORD01144,2025-08-29,Storage Basket,Home & Kitchen,1.0,599.36,0.0,C1050,West
+ORD01145,2025-03-10,Steel Water Bottle,Home & Kitchen,1.0,327.53,0.15,C1163,West
+ORD01146,2025-08-03,Cotton Kurta,Apparel,1.0,926.32,0.0,C1082,North
+ORD01147,2025-01-14,Cotton Kurta,Apparel,1.0,850.52,0.05,C1101,South
+ORD01148,2025-06-23,Wireless Mouse,Electronics,2.0,836.84,0.15,C1068,North
+ORD01149,2025-05-28,USB-C Cable,Electronics,2.0,292.99,0.0,C1221,North
+ORD01150,2025-07-16,Wireless Mouse,Electronics,1.0,804.6,0.0,C1246,North
+ORD01151,2025-05-10,Storage Basket,Home & Kitchen,3.0,614.21,0.05,C1156,West
+ORD01152,2025-11-14,USB-C Cable,Electronics,3.0,284.44,0.0,C1111,South
+ORD01153,2025-03-14,Denim Jeans,Apparel,2.0,1216.92,0.0,C1060,North
+ORD01154,2025-04-27,Sketchbook,Stationery,1.0,266.59,0.0,C1162,East
+ORD01155,2025-05-17,Bluetooth Speaker,Electronics,1.0,1835.26,0.0,C1094,East
+ORD01156,2025-11-05,Cotton Kurta,Apparel,2.0,894.03,0.15,C1036,North
+ORD01157,2025-11-17,Bluetooth Speaker,Electronics,2.0,1803.01,0.1,C1090,South
+ORD01158,2025-08-11,Classic T-Shirt,Apparel,1.0,531.58,0.05,C1089,West
+ORD01159,2025-01-19,Notebook Set,Stationery,2.0,183.79,0.05,C1039,South
+ORD01160,2025-01-20,Wireless Mouse,Electronics,4.0,780.82,0.1,C1148,North
+ORD01161,2025-12-02,Cotton Kurta,Apparel,2.0,883.53,0.05,C1134,West
+ORD01162,2025-08-12,USB-C Cable,Electronics,1.0,282.65,0.0,C1037,West
+ORD01163,2025-12-07,Bluetooth Speaker,Electronics,1.0,1708.97,0.0,C1052,West
+ORD01164,2025-04-08,Denim Jeans,Apparel,2.0,1399.57,0.05,C1009,West
+ORD01165,2025-01-29,USB-C Cable,Electronics,1.0,306.64,0.1,C1232,South
+ORD01166,2025-06-24,Ceramic Mug,Home & Kitchen,1.0,260.44,0.0,C1043,South
+ORD01167,2025-05-25,Cotton Kurta,Apparel,1.0,915.97,0.0,C1146,West
+ORD01168,2025-03-04,Sketchbook,Stationery,1.0,271.28,0.0,C1182,South
+ORD01169,2025-01-14,Desk Organizer,Stationery,2.0,438.17,0.15,C1097,South
+ORD01170,2025-06-06,Ceramic Mug,Home & Kitchen,1.0,264.36,0.0,C1072,South
+ORD01171,2025-08-29,Desk Organizer,Stationery,2.0,448.16,0.0,C1167,East
+ORD01172,2025-11-26,Cotton Kurta,Apparel,4.0,904.3,0.0,C1079,South
+ORD01173,2025-07-25,Denim Jeans,Apparel,1.0,1227.85,0.15,C1067,East
+ORD01174,2025-02-12,Steel Water Bottle,Home & Kitchen,2.0,328.97,0.0,C1123,East
+ORD01175,2025-07-28,Bluetooth Speaker,Electronics,3.0,1892.08,0.0,C1120,North
+ORD01176,2025-12-15,Bluetooth Speaker,Electronics,4.0,1740.92,0.1,C1043,South
+ORD01177,2025-01-26,Storage Basket,Home & Kitchen,1.0,558.67,0.15,C1206,South
+ORD01178,2025-05-29,Steel Water Bottle,Home & Kitchen,1.0,373.85,0.0,C1088,North
+ORD01179,2025-03-26,Storage Basket,Home & Kitchen,1.0,554.38,0.0,C1198,South
+ORD01180,2025-03-15,Cotton Kurta,Apparel,2.0,950.13,0.1,C1004,South
+ORD01181,2025-08-25,Sketchbook,Stationery,3.0,280.67,0.0,C1080,South
+ORD01182,2025-09-30,Storage Basket,Home & Kitchen,1.0,643.03,0.05,C1129,East
+ORD01183,2025-07-10,Bluetooth Speaker,Electronics,2.0,1682.47,0.05,C1053,East
+ORD01184,2025-05-17,Cotton Kurta,Apparel,3.0,893.46,0.0,C1209,North
+ORD01185,2025-07-13,Cotton Kurta,Apparel,2.0,934.78,0.0,C1050,West
+ORD01186,2025-07-17,Wireless Mouse,Electronics,4.0,841.51,0.05,C1041,East
+ORD01187,2025-08-22,Classic T-Shirt,Apparel,1.0,466.23,0.0,C1034,North
+ORD01188,2025-06-04,Desk Organizer,Stationery,3.0,464.37,0.0,C1230,North
+ORD01189,2025-09-27,USB-C Cable,Electronics,1.0,297.69,0.0,C1164,North
+ORD01190,2025-08-21,Ceramic Mug,Home & Kitchen,2.0,267.16,0.0,C1079,West
+ORD01191,2025-08-17,Classic T-Shirt,Apparel,2.0,497.57,0.05,C1202,
+ORD01192,2025-08-04,Sketchbook,Stationery,1.0,-10.0,0.0,C1227,West
+ORD01193,2025-04-11,Denim Jeans,Apparel,3.0,1268.55,0.0,C1150,South
+ORD01194,2025-06-13,Ceramic Mug,Home & Kitchen,1.0,245.99,0.1,C1131,South
+ORD01195,2025-04-06,Wireless Mouse,Electronics,3.0,772.61,0.1,C1230,South
+ORD01196,2025-11-05,Denim Jeans,Apparel,1.0,1402.92,0.1,C1005,North
+ORD01197,2025-01-06,Bluetooth Speaker,Electronics,1.0,1799.66,0.05,C1225,North
+ORD01198,2025-01-28,USB-C Cable,Electronics,1.0,296.31,0.0,C1126,West
+ORD01199,2025-05-13,Notebook Set,Stationery,2.0,201.66,0.05,C1242,East
+ORD01200,2025-04-23,USB-C Cable,Electronics,2.0,299.6,0.1,C1015,East
+ORD01201,2025-11-29,Classic T-Shirt,Apparel,1.0,495.97,0.0,C1091,North
+ORD01202,2025-02-15,Bluetooth Speaker,Electronics,3.0,1765.31,0.0,C1058,North
+ORD01203,2025-10-07,Steel Water Bottle,Home & Kitchen,2.0,374.77,0.0,C1085,North
+ORD01204,2025-10-28,Cotton Kurta,Apparel,4.0,920.35,0.15,C1120,South
+ORD01205,2025-07-21,Storage Basket,Home & Kitchen,1.0,561.85,0.0,C1080,East
+ORD01206,2025-11-19,Cotton Kurta,Apparel,1.0,959.35,0.0,C1137,West
+ORD01207,2025-04-28,Desk Organizer,Stationery,4.0,434.14,0.0,C1014,South
+ORD01208,2025-06-10,Desk Organizer,Stationery,1.0,458.62,0.1,C1102,East
+ORD01209,2025-12-23,Sketchbook,Stationery,1.0,257.07,0.15,C1135,North
+ORD01210,2025-11-26,Classic T-Shirt,Apparel,3.0,471.89,0.1,C1212,East
+ORD01211,2025-12-18,Denim Jeans,Apparel,5.0,1286.4,0.0,C1095,West
+ORD01212,2025-12-03,Notebook Set,Stationery,2.0,192.61,0.05,C1206,South
+ORD01213,2025-05-28,Sketchbook,Stationery,5.0,279.56,0.05,C1150,West
+ORD01214,2025-01-07,Bluetooth Speaker,Electronics,1.0,1747.95,0.1,C1247,West
+ORD01215,2025-01-22,USB-C Cable,Electronics,1.0,294.37,0.1,C1186,South
+ORD01216,2025-07-05,USB-C Cable,Electronics,3.0,290.38,0.05,C1172,North
+ORD01217,2025-09-05,Ceramic Mug,Home & Kitchen,1.0,266.84,0.1,C1035,North
+ORD01218,2025-05-19,Storage Basket,Home & Kitchen,2.0,636.08,0.05,C1210,North
+ORD01219,2025-09-16,Storage Basket,Home & Kitchen,4.0,605.96,0.0,C1001,North
+ORD01220,2025-09-21,Steel Water Bottle,Home & Kitchen,2.0,359.85,0.0,C1229,North
+ORD01221,2025-05-06,Steel Water Bottle,Home & Kitchen,2.0,366.86,0.0,C1097,South
+ORD01222,2025-12-23,Cotton Kurta,Apparel,3.0,938.76,0.0,C1011,East
+ORD01223,2025-10-12,Sketchbook,Stationery,2.0,263.17,0.0,C1106,West
+ORD01224,2025-06-22,Wireless Mouse,Electronics,2.0,861.89,0.0,C1092,West
+ORD01225,2025-08-11,Ceramic Mug,Home & Kitchen,2.0,239.65,0.15,C1101,West
+ORD01226,2025-07-09,Sketchbook,Stationery,2.0,276.84,0.1,C1244,North
+ORD01227,2025-09-11,Storage Basket,Home & Kitchen,2.0,586.93,0.0,C1209,North
+ORD01228,2025-01-31,Ceramic Mug,Home & Kitchen,1.0,238.93,0.05,C1106,South
+ORD01229,2025-09-02,Classic T-Shirt,Apparel,2.0,471.86,0.0,C1208,East
+ORD01230,2025-12-04,Ceramic Mug,Home & Kitchen,4.0,247.53,0.0,C1085,
+ORD01231,2025-09-01,Bluetooth Speaker,Electronics,1.0,1722.94,0.0,C1191,South
+ORD01232,2025-01-17,Notebook Set,Stationery,3.0,197.02,0.0,C1142,North
+ORD01233,2025-11-12,Steel Water Bottle,Home & Kitchen,3.0,327.66,0.0,C1231,North
+ORD01234,2025-08-08,USB-C Cable,Electronics,1.0,291.08,0.0,C1018,South
+ORD01235,2025-10-28,USB-C Cable,Electronics,2.0,299.37,0.0,C1111,West
+ORD01236,2025-08-28,Bluetooth Speaker,Electronics,2.0,1810.93,0.05,C1228,South
+ORD01237,2025-07-27,Notebook Set,Stationery,1.0,211.83,0.1,C1203,South
+ORD01238,2025-01-17,Denim Jeans,Apparel,1.0,1267.38,0.05,C1228,South
+ORD01239,2025-09-26,Cotton Kurta,Apparel,1.0,918.39,0.0,C1236,West
+ORD01240,2025-02-14,Sketchbook,Stationery,2.0,259.01,0.0,C1095,North
+ORD01241,2025-09-05,USB-C Cable,Electronics,1.0,284.67,0.1,C1239,
+ORD01242,2025-07-12,Bluetooth Speaker,Electronics,1.0,1800.41,0.0,C1177,South
+ORD01243,2025-11-09,USB-C Cable,Electronics,3.0,286.52,0.05,C1242,South
+ORD01244,2025-11-08,Ceramic Mug,Home & Kitchen,2.0,238.77,0.1,C1045,South
+ORD01245,2025-02-04,Denim Jeans,Apparel,3.0,1268.69,0.0,C1068,North
+ORD01246,2025-10-01,Bluetooth Speaker,Electronics,1.0,1663.89,0.0,C1172,East
+ORD01247,2025-09-09,Cotton Kurta,Apparel,2.0,872.88,0.05,C1176,East
+ORD01248,2025-05-14,Ceramic Mug,Home & Kitchen,2.0,252.11,0.0,C1244,South
+ORD01249,2025-07-27,Cotton Kurta,Apparel,3.0,848.17,0.1,C1247,North
+ORD01250,2025-02-27, USB-C Cable ,Electronics,1.0,308.24,0.05,C1242,South
+ORD01103,2025-07-29,USB-C Cable,Electronics,2.0,317.45,0.0,C1167,East
+ORD00225,2025-10-30,Notebook Set,Stationery,6.0,200.45,0.0,C1199,West
+ORD00811,2025-05-31,Ceramic Mug,Home & Kitchen,4.0,240.65,0.0,C1005,South
+ORD01010,2025-12-16,Ceramic Mug,Home & Kitchen,2.0,246.11,0.0,C1116,East
+ORD00429,2025-11-07,Storage Basket,Home & Kitchen,1.0,619.08,0.0,C1173,West
+ORD00543,2025-07-16,Cotton Kurta,Apparel,1.0,916.27,0.1,C1014,North
+ORD00377,2025-04-30,Cotton Kurta,Apparel,1.0,848.65,0.1,C1053,North
+ORD01184,2025-05-17,Cotton Kurta,Apparel,3.0,893.46,0.0,C1209,North
